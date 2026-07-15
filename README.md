@@ -1,4 +1,3 @@
-````markdown
 <!-- ╭────────────────────────────────────────────────────────────╮ -->
 <!-- │                     🌸 Martyna's README 🌸                 │ -->
 <!-- │          Replace links & usernames with your own           │ -->
@@ -50,7 +49,7 @@ I enjoy creating immersive worlds, experimenting with mechanics, and continuousl
 
 ### 💖 Currently
 
-🎮 Developing games with **Unity 5/6** and exploring its newest technologies.
+🎮 Developing games with **Unity 6.5** and exploring its newest technologies.
 
 🧙 Mostly creating **Fantasy** and **RPG** experiences.
 
@@ -212,4 +211,3 @@ I enjoy creating immersive worlds, experimenting with mechanics, and continuousl
 <p align="center">
   <sub>🌸 Made with love, curiosity, and way too much coffee ☕💖</sub>
 </p>
-````
