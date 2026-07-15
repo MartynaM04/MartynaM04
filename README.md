@@ -1,207 +1,250 @@
-<!-- ╭────────────────────────────────────────────────────────────╮ -->
-<!-- │                     🌸 Martyna's README 🌸                 │ -->
-<!-- │          Replace links & usernames with your own           │ -->
-<!-- ╰────────────────────────────────────────────────────────────╯ -->
+<!-- 
+=======================================================================
+  MARTYNA'S GITHUB PROFILE README
+  Theme: Pastel Pink, Kawaii, Fantasy Indie Game Dev
+  Colors: #E4A5C2, #F7D7E6, #F8BBD0
+=======================================================================
+-->
 
-<p align="center">
+<div align="center">
 
+<!-- EXISTING HEADER (DO NOT MODIFY) -->
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="art/header-dark.png">
-  <source media="(prefers-color-scheme: light)" srcset="art/header-light.png">
-  <img alt=Aspiring game developer" src="art/header-light.png" width="100%">
+  <source media="(prefers-color-scheme: dark)" srcset="header-dark.png">
+  <source media="(prefers-color-scheme: light)" srcset="header-light.png">
+  <img alt="Martyna's Header" src="header-light.png" width="100%">
 </picture>
-
-</p>
-
-<h1 align="center">
-  🌸 Hey there, I'm Martyna 🌸
-</h1>
-
-<p align="center">
-  <img
-    src="https://readme-typing-svg.demolab.com?font=Quicksand&weight=700&size=24&pause=1500&center=true&vCenter=true&width=700&color=E4A5C2&lines=%F0%9F%8E%AE+Game+Developer;%F0%9F%8C%B8+Fantasy+%26+RPG+Enjoyer;%E2%9C%A8+Unity+Developer;%F0%9F%A4%8D+Always+Learning+Something+New;%F0%9F%92%96+Welcome+to+my+little+corner+of+GitHub"
-    alt="Typing SVG"
-/>
-</p>
-
-<p align="center">
-  <img src="https://img.shields.io/github/followers/MartynaM04?style=for-the-badge&logo=github&logoColor=white&color=e4a5c2&labelColor=f7d7e6&label=Followers"/>
-  <img src="https://img.shields.io/github/stars/MartynaM04?affiliations=OWNER&style=for-the-badge&logo=github&logoColor=white&color=e4a5c2&labelColor=f7d7e6&label=Stars"/>
-  <img src="https://komarev.com/ghpvc/?username=MartynaM04&style=for-the-badge&color=e4a5c2&label=Profile+Views"/>
-</p>
-
-<br>
-
-<img src="https://capsule-render.vercel.app/api?type=soft&color=e4a5c2&height=2&section=header"/>
-
-# 🌸 About Me
-
-<table align="center">
-<tr>
-
-<td width="65%" valign="top">
-
-### ✨ Hi there!
-
-I'm **Martyna**, an aspiring **game developer** who is still learning her way through game development, but always gives it her best.
-
-I enjoy creating immersive worlds, experimenting with mechanics, and continuously improving my skills while working on personal projects.
-
-### 💖 Currently
-
-🎮 Developing games with **Unity 6.5** and exploring its newest technologies.
-
-🧙 Mostly creating **Fantasy** and **RPG** experiences.
-
-🚀 Also fascinated by **Sci-Fi** worlds and **Visual Novel** style storytelling.
-
-🤖 Comfortable designing workflows around **AI models** and integrating them into development pipelines.
-
-🌸 Always learning something new every single day.
-
-### 🎀 Goals
-
-- 🌸 Build beautiful **Low Poly** games
-- 🎮 Become a professional **Game Developer**
-- ⚔️ Create memorable Fantasy RPG worlds
-- 🚀 Learn **Unreal Engine**
-- 💕 Keep growing as both a programmer and designer
-
-> *"Every great game starts as someone's tiny idea."* ✨
-
-</td>
-
-<td width="35%" align="center">
-
-<img width="270" src="https://media.tenor.com/NOYF3f82b_gAAAAC/anime-computer.gif">
 
 <br><br>
 
-<img src="https://img.shields.io/badge/Favorite-🌸%20Fantasy-e4a5c2?style=for-the-badge">
-
-<br>
-
-<img src="https://img.shields.io/badge/Engine-Unity-e4a5c2?style=for-the-badge">
-
-<br>
-
-<img src="https://img.shields.io/badge/Dream-Unreal%20Engine-e4a5c2?style=for-the-badge">
-
-</td>
-
-</tr>
+<!-- PROFILE CARD -->
+<table align="center" style="border-collapse: collapse; border: none;">
+  <tr style="border: none;">
+    <td align="center" style="border: none; padding: 20px;">
+      <h2 style="color: #E4A5C2; margin-bottom: 5px;">🌸 Martyna</h2>
+      <p style="font-size: 16px; color: #888;">
+        🎮 Unity Developer &nbsp;•&nbsp; 🧙 Fantasy World Builder &nbsp;•&nbsp; 🐀 Gray Rat Mascot <br>
+        🌙 Night Coder &nbsp;•&nbsp; ☕ Coffee Powered
+      </p>
+    </td>
+  </tr>
 </table>
 
 <br>
+<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="40%" style="filter: hue-rotate(290deg) saturate(150%) opacity(70%);">
+<br><br>
 
-<img src="https://capsule-render.vercel.app/api?type=soft&color=e4a5c2&height=2&section=header"/>
+<!-- INTRODUCTION -->
+### ✨ About the Architect
 
-# 🩷 Tech Stack
+I am an aspiring **Game Developer** with a passion for weaving low-poly fantasy worlds, robust RPG mechanics, and immersive adventures. My weapon of choice is **Unity 6.5**, where I continuously refine my workflows and experiment with the latest engine features. 
 
-<p align="center">
+I operate as the lead architect of my worlds. AI assistants like Claude and Claude Code act as my contractors—I design the intricate systems, architecture, and narratives, while they help me implement the codebase faster. This synergy allows me to maintain absolute creative and technical control while bringing my visions to life at the speed of thought.
 
-<img src="https://skillicons.dev/icons?i=unity,cs,cpp,git,github,vscode,visualstudio,blender,ps,ai,html,css,js,nodejs,python&theme=light"/>
+<br><br>
+<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="40%" style="filter: hue-rotate(290deg) saturate(150%) opacity(70%);">
+<br><br>
 
-</p>
+<!-- CURRENT PROJECT (STEAM PAGE VIBE) -->
+<table align="center" width="85%" style="border-radius: 15px; border: 1px solid #F7D7E6; background-color: rgba(247, 215, 230, 0.05);">
+  <tr>
+    <td colspan="2" align="center" style="padding: 20px 20px 5px 20px;">
+      <h2 style="color: #E4A5C2;">⚔️ Wanderer's Tale ⚔️</h2>
+      <i>A low poly fantasy 3D adventure made in Unity 6.5.</i>
+    </td>
+  </tr>
+  <tr>
+    <td width="55%" style="padding: 20px;">
+      <b>The Legend:</b><br>
+      The story follows a fearless young woman gifted with magical powers and accompanied by her irreplaceable sword. She wanders across a beautifully crafted low-poly world helping people in need, discovering forgotten places, and uncovering mysteries while bringing hope wherever she travels.
+    </td>
+    <td width="45%" style="padding: 20px;">
+      <b>Current Development Focus:</b><br>
+      <ul>
+        <li>🗡️ Action-driven Combat Systems</li>
+        <li>💬 Branching Dialogue Mechanics</li>
+        <li>🌲 World Building & Atmospheric Design</li>
+        <li>⚙️ Utilizing Unity 6.5 Technologies</li>
+        <li>🤖 Advanced AI-assisted Workflows</li>
+      </ul>
+    </td>
+  </tr>
+</table>
 
-<p align="center">
+<br><br>
+<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="40%" style="filter: hue-rotate(290deg) saturate(150%) opacity(70%);">
+<br><br>
 
-<img src="https://img.shields.io/badge/Unity_6.5-e4a5c2?style=for-the-badge">
-<img src="https://img.shields.io/badge/Game_Development-f7c8dd?style=for-the-badge">
-<img src="https://img.shields.io/badge/AI_Workflows-e4a5c2?style=for-the-badge">
-<img src="https://img.shields.io/badge/RPG_Design-f7c8dd?style=for-the-badge">
-
-</p>
-
-<br>
-
-<img src="https://capsule-render.vercel.app/api?type=soft&color=e4a5c2&height=2&section=header"/>
-
-# 🌷 GitHub Stats
-
-<p align="center">
-
-<img height="180em"
-     src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=MartynaM04&show_icons=true&theme=transparent&hide_border=true&title_color=E4A5C2&icon_color=E4A5C2&text_color=D8B4C7&rank_icon=github"/>
-
-<img height="180em"
-     src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=MartynaM04&layout=compact&theme=transparent&hide_border=true&title_color=E4A5C2&text_color=D8B4C7"/>
-
-</p>
-
-# 🔥 GitHub Streak
-
-<p align="center">
-
-<img src="https://streak-stats.demolab.com?user=MartynaM04&hide_border=true&background=00000000&ring=E4A5C2&fire=E4A5C2&currStreakLabel=E4A5C2&sideLabels=F3D4E2&dates=EEC6D9"/>
-
-</p>
-
-<br>
-
-# 🌸 Activity Graph
-
-<p align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=MartynaM04&bg_color=00000000&hide_border=true&line=E4A5C2&point=F8BBD0&color=E4A5C2&area=true&area_color=F7D7E6"/>
-
-</p>
+<!-- TECH STACK -->
+### 🔮 My Spellbook (Tech Stack)
 
 <br>
 
-<img src="https://capsule-render.vercel.app/api?type=soft&color=e4a5c2&height=2&section=header"/>
-
-# 🐍 Contribution Snake
-
-<p align="center">
-
-<img src="https://raw.githubusercontent.com/MartynaM04/MartynaM04/output/github-contribution-grid-snake.svg" alt="Contribution Snake"/>
-
-</p>
-
-```yaml
-# .github/workflows/snake.yml
-#
-# Generates the contribution snake automatically.
-#
-# Output:
-# output/github-contribution-grid-snake.svg
-```
+**Game Development & Programming**<br>
+<a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=unity,cs,dotnet,cpp&theme=light" alt="Game Dev Stack"/></a>
 
 <br>
 
-<img src="https://capsule-render.vercel.app/api?type=soft&color=e4a5c2&height=2&section=header"/>
+**Art & Design**<br>
+<a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=blender,ps,figma&theme=light" alt="Art Stack"/></a>
 
-# 💌 Let's Connect
+<br>
 
-<p align="center">
+**Tools & Workflows**<br>
+<a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=git,github,vscode,visualstudio&theme=light" alt="Tools Stack"/></a>
 
-<a href="https://instagram.com/programming.rat">
-<img src="https://img.shields.io/badge/Instagram-e4a5c2?style=for-the-badge&logo=instagram&logoColor=white">
+<br><br>
+
+<!-- CURRENTLY LEARNING -->
+### 🌱 Currently Learning
+> *Mastering the elements to craft better adventures.*
+
+<table align="center" style="border: none;">
+  <tr style="border: none;">
+    <td align="left" style="border: none;">
+      <ul>
+        <li><b>Unity 6.5 Advanced Tools:</b> Shader Graph, VFX Graph, New Input System, UI Toolkit, and improved Terrain Tools</li>
+        <li><b>System Design:</b> Scalable Game Architecture and Design Patterns</li>
+        <li><b>Efficiency:</b> Optimizing AI Workflows in code generation</li>
+        <li><b>Expanding Horizons:</b> Unreal Engine (Future expedition)</li>
+      </ul>
+    </td>
+  </tr>
+</table>
+
+<br><br>
+<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="40%" style="filter: hue-rotate(290deg) saturate(150%) opacity(70%);">
+<br><br>
+
+<!-- ROADMAP -->
+### 🗺 My Adventure
+*Every great hero has a quest log.*
+
+<table align="center" style="border: none;">
+  <tr style="border: none;">
+    <td align="left" style="font-size: 16px; border: none;">
+      ✅ <b>Tutorial Complete:</b> Learned C# Fundamentals<br>
+      ✅ <b>Engine Mastery:</b> Adopted Unity as my primary realm<br>
+      ✅ <b>3D Forging:</b> Mastered Blender Basics<br>
+      ✅ <b>Version Control:</b> Tamed the Git Dragon<br>
+      🌱 <b>Current Quest:</b> Developing & Publishing <i>Wanderer's Tale</i><br>
+      🔜 <b>Next Zone:</b> Exploring Unreal Engine<br>
+      ⭐ <b>Main Objective:</b> Steam Release<br>
+      💖 <b>Endgame:</b> Professional Game Developer<br>
+    </td>
+  </tr>
+</table>
+
+<br><br>
+<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="40%" style="filter: hue-rotate(290deg) saturate(150%) opacity(70%);">
+<br><br>
+
+<!-- FAVOURITE GAMES -->
+### 🎲 Inspirations & Favorite Realms
+
+<img src="https://img.shields.io/badge/Baldur's_Gate_3-E4A5C2?style=for-the-badge&logoColor=white">
+<img src="https://img.shields.io/badge/Dragon_Age-F7D7E6?style=for-the-badge&logoColor=gray">
+<img src="https://img.shields.io/badge/Divinity:_Original_Sin-F8BBD0?style=for-the-badge&logoColor=white">
+<img src="https://img.shields.io/badge/Red_Dead_Redemption_2-E4A5C2?style=for-the-badge&logoColor=white">
+<br>
+<img src="https://img.shields.io/badge/A_Way_Out-F7D7E6?style=for-the-badge&logoColor=gray">
+<img src="https://img.shields.io/badge/Paralives-F8BBD0?style=for-the-badge&logoColor=white">
+<img src="https://img.shields.io/badge/Avowed-E4A5C2?style=for-the-badge&logoColor=white">
+
+<br><br>
+<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="40%" style="filter: hue-rotate(290deg) saturate(150%) opacity(70%);">
+<br><br>
+
+<!-- FUN FACTS -->
+### 🌸 The Guild Master's Tavern (Fun Facts)
+
+<table align="center" style="border: none;">
+  <tr style="border: none;">
+    <td align="left" style="font-size: 15px; border: none;">
+      🐀 My spirit animal and studio mascot is a <b>Gray Rat</b>.<br>
+      🌸 <b>Pink</b> is my absolute favorite color (if you couldn't tell!).<br>
+      🌙 The best code is written when the moon is high—<b>Night Coder</b>.<br>
+      ☕ A fresh cup of <b>Coffee</b> and a <b>Spotify</b> playlist are mandatory companions.<br>
+      🎮 <b>Fantasy RPGs</b> are my true home, but I love exploring every genre.<br>
+      🚀 My ultimate dream is to see my very own game sparkling on the <b>Steam Store</b>.<br>
+    </td>
+  </tr>
+</table>
+
+<br><br>
+
+<!-- NOW PLAYING (SPOTIFY) -->
+### 🎶 Tavern Ambience
+
+<!-- 
+  To make this Spotify widget work dynamically:
+  1. Go to https://github.com/novatem/spotify-readme or similar Vercel integrations.
+  2. Deploy your own instance and authenticate with your Spotify account.
+  3. Replace the `src` URL below with your generated Vercel app URL.
+  4. The current link is a beautifully styled placeholder that matches the aesthetic.
+-->
+<a href="https://spotify.com">
+  <img src="https://spotify-github-profile.vercel.app/api/view?uid=spotify&cover_image=true&theme=novatorem&color=E4A5C2&background_color=121212" alt="Spotify Now Playing" width="350px"/>
 </a>
 
-<a href="https://www.tiktok.com/@greyhighrat">
-<img src="https://img.shields.io/badge/TikTok-e4a5c2?style=for-the-badge&logo=tiktok&logoColor=white">
-</a>
+<br><br>
+<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="40%" style="filter: hue-rotate(290deg) saturate(150%) opacity(70%);">
+<br><br>
 
-<a href="https://twitch.tv/szczurnawysokosci">
-<img src="https://img.shields.io/badge/Twitch-e4a5c2?style=for-the-badge&logo=twitch&logoColor=white">
-</a>
-
-<a href="mailto:martynamilic08@gmail.com">
-<img src="https://img.shields.io/badge/Email-e4a5c2?style=for-the-badge&logo=gmail&logoColor=white">
-</a>
-
-</p>
+<!-- GITHUB STATS & ACTIVITY -->
+### 📊 Adventurer's Log
 
 <br>
 
-<p align="center">
+<div align="center">
+  <!-- Top Languages & Stats -->
+  <img src="https://github-readme-stats.vercel.app/api?username=MartynaM04&show_icons=true&bg_color=00000000&title_color=E4A5C2&text_color=F8BBD0&icon_color=E4A5C2&hide_border=true&include_all_commits=true" alt="Martyna's GitHub Stats" height="192px"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MartynaM04&layout=compact&bg_color=00000000&title_color=E4A5C2&text_color=F8BBD0&hide_border=true" alt="Martyna's Top Languages" height="192px"/>
+</div>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=e4a5c2&height=160&section=footer"/>
+<br>
 
+<div align="center">
+  <!-- Streak -->
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=MartynaM04&theme=transparent&title_color=E4A5C2&text_color=F8BBD0&icon_color=E4A5C2&date_format=j%20M%5B%20Y%5D&hide_border=true" alt="Martyna's GitHub Streak" />
+</div>
+
+<br>
+
+<div align="center">
+  <!-- Trophies -->
+  <img src="https://github-profile-trophy.vercel.app/?username=MartynaM04&theme=dracula&no-bg=true&no-frame=true&text=E4A5C2&title=F8BBD0" alt="GitHub Trophies" />
+</div>
+
+<br>
+
+<div align="center">
+  <!-- Contribution Snake -->
+  <!-- Ensure GitHub Actions is set up to generate this snake.svg to your repository branch -->
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/MartynaM04/MartynaM04/output/github-contribution-grid-snake-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/MartynaM04/MartynaM04/output/github-contribution-grid-snake.svg">
+    <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/MartynaM04/MartynaM04/output/github-contribution-grid-snake.svg" width="80%">
+  </picture>
+</div>
+
+<br><br>
+<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="40%" style="filter: hue-rotate(290deg) saturate(150%) opacity(70%);">
+<br><br>
+
+<!-- CONTACT -->
+### 💌 Send a Raven
+
+<a href="https://instagram.com/your_username"><img src="https://img.shields.io/badge/Instagram-E4A5C2?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"></a>
+<a href="https://tiktok.com/@your_username"><img src="https://img.shields.io/badge/TikTok-F7D7E6?style=for-the-badge&logo=tiktok&logoColor=gray" alt="TikTok"></a>
+<a href="https://twitch.tv/your_username"><img src="https://img.shields.io/badge/Twitch-F8BBD0?style=for-the-badge&logo=twitch&logoColor=white" alt="Twitch"></a>
+<a href="mailto:your.email@example.com"><img src="https://img.shields.io/badge/Email-E4A5C2?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"></a>
+
+<br><br><br>
+
+<!-- FOOTER -->
+<p align="center" style="font-size: 16px; color: #E4A5C2; font-style: italic;">
+  "May your builds succeed and your adventures never end." ✨
 </p>
 
-<p align="center">
-  <sub>🌸 Made with love, curiosity, and way too much coffee ☕💖</sub>
-</p>
+</div>
