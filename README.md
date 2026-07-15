@@ -15,10 +15,10 @@
   <img alt="Martyna - Aspiring Game Developer" src="art/header-light.png" width="100%">
 </picture>
 
-<br><br>
+<br><br><br>
 
 <!-- PROFILE HEADER -->
-<h1>Hi, I'm Martyna!</h1>
+<h1>🌸 Hi, I'm Martyna! 🌸</h1>
 
 <table style="border: none; margin: 0 auto; width: 60%; background-color: transparent;">
   <tr style="border: none;">
@@ -40,19 +40,30 @@
 
 </div>
 
----
+<br><br>
+<div align="center">
+  <img src="https://singlecolorimage.com/get/F7D7E6/400x2" alt="Divider" width="40%" />
+</div>
+<br><br>
 
-### About Me
+<!-- ABOUT ME -->
+<h3 align="center">🎀 About Me</h3>
+<br>
 
 I am an aspiring **Game Developer** with a passion for building robust RPG mechanics, highly optimized systems, and immersive environments. My primary engine is **Unity 6.5**, where I continuously refine my workflows and experiment with the latest engine features. 
 
 I operate as the lead architect of my projects. AI assistants like Claude act as my development partners—I design the complex game architecture, systems, and narratives, while they assist with rapid code implementation. This synergy allows me to maintain absolute creative control and focus on high-level system design.
 
----
+<br><br>
+<div align="center">
+  <img src="https://singlecolorimage.com/get/F7D7E6/400x2" alt="Divider" width="40%" />
+</div>
+<br><br>
 
-### Current Project: Wanderer's Tale
-
-*A low-poly 3D adventure developed in Unity 6.5.*
+<!-- CURRENT PROJECT -->
+<h3 align="center">🌷 Current Project: Wanderer's Tale</h3>
+<p align="center"><i>A low-poly 3D adventure developed in Unity 6.5.</i></p>
+<br>
 
 <table width="100%" style="border: none;">
   <tr style="border: none;">
@@ -73,9 +84,15 @@ I operate as the lead architect of my projects. AI assistants like Claude act as
   </tr>
 </table>
 
----
+<br><br>
+<div align="center">
+  <img src="https://singlecolorimage.com/get/F7D7E6/400x2" alt="Divider" width="40%" />
+</div>
+<br><br>
 
-### Tech Stack & Learning
+<!-- TECH STACK & LEARNING -->
+<h3 align="center">🎟️ Tech Stack & Learning</h3>
+<br>
 
 <table width="100%" style="border: none;">
   <tr style="border: none;">
@@ -97,9 +114,15 @@ I operate as the lead architect of my projects. AI assistants like Claude act as
   </tr>
 </table>
 
----
+<br><br>
+<div align="center">
+  <img src="https://singlecolorimage.com/get/F7D7E6/400x2" alt="Divider" width="40%" />
+</div>
+<br><br>
 
-### Development Roadmap
+<!-- ROADMAP & PROFILE -->
+<h3 align="center">💗 Development Roadmap</h3>
+<br>
 
 <table width="100%" style="border: none;">
   <tr style="border: none;">
@@ -127,9 +150,15 @@ I operate as the lead architect of my projects. AI assistants like Claude act as
   </tr>
 </table>
 
----
+<br><br>
+<div align="center">
+  <img src="https://singlecolorimage.com/get/F7D7E6/400x2" alt="Divider" width="40%" />
+</div>
+<br><br>
 
-### Inspirations
+<!-- INSPIRATIONS -->
+<h3 align="center">🌺 Inspirations</h3>
+<br>
 
 <div align="center">
   <img src="https://img.shields.io/badge/Baldur's_Gate_3-E4A5C2?style=for-the-badge&logoColor=white" alt="BG3">
@@ -140,9 +169,15 @@ I operate as the lead architect of my projects. AI assistants like Claude act as
   <img src="https://img.shields.io/badge/Paralives-F8BBD0?style=for-the-badge&logoColor=white" alt="Paralives">
 </div>
 
----
+<br><br>
+<div align="center">
+  <img src="https://singlecolorimage.com/get/F7D7E6/400x2" alt="Divider" width="40%" />
+</div>
+<br><br>
 
-### Now Playing
+<!-- NOW PLAYING -->
+<h3 align="center">💖 Now Playing</h3>
+<br>
 
 <div align="center">
   <a href="https://open.spotify.com/user/Bonwendura">
@@ -150,9 +185,15 @@ I operate as the lead architect of my projects. AI assistants like Claude act as
   </a>
 </div>
 
----
+<br><br>
+<div align="center">
+  <img src="https://singlecolorimage.com/get/F7D7E6/400x2" alt="Divider" width="40%" />
+</div>
+<br><br>
 
-### GitHub Analytics
+<!-- GITHUB ANALYTICS -->
+<h3 align="center">🌸 GitHub Analytics</h3>
+<br>
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=MartynaM04&show_icons=true&bg_color=00000000&title_color=E4A5C2&text_color=d87a9f&icon_color=E4A5C2&hide_border=true&include_all_commits=true" alt="GitHub Stats" height="170px"/>
@@ -188,9 +229,15 @@ I operate as the lead architect of my projects. AI assistants like Claude act as
   </picture>
 </div>
 
----
+<br><br>
+<div align="center">
+  <img src="https://singlecolorimage.com/get/F7D7E6/400x2" alt="Divider" width="40%" />
+</div>
+<br><br>
 
-### Contact
+<!-- CONTACT -->
+<h3 align="center">💌 Contact</h3>
+<br>
 
 <div align="center">
   <a href="https://instagram.com/programming.rat"><img src="https://img.shields.io/badge/Instagram-E4A5C2?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"></a>
@@ -202,7 +249,7 @@ I operate as the lead architect of my projects. AI assistants like Claude act as
   <a href="https://ko-fi.com/MartynaM04"><img src="https://img.shields.io/badge/Buy_Me_A_Coffee-FFB3D9?style=for-the-badge&logo=ko-fi&logoColor=white" alt="Ko-fi"></a>
 </div>
 
-<br><br>
+<br><br><br>
 
 <!-- FOOTER -->
 <div align="center">
