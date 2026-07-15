@@ -17,6 +17,8 @@
 
 <br><br>
 
+<br><br>
+
 <!-- PROFILE CARD -->
 <table align="center" style="border: none;">
   <tr style="border: none;">
@@ -50,13 +52,13 @@ I operate as the lead architect of my systems. AI assistants like **Claude** and
 ### ⚔️ Wanderer's Tale ⚔️
 *A low poly fantasy 3D adventure made in Unity 6.5.*
 
-<table align="center" width="90%">
-  <tr>
-    <td width="55%" style="padding: 20px;">
+<table align="center" width="100%" style="border: none;">
+  <tr style="border: none;">
+    <td width="50%" style="border: none; padding: 20px; vertical-align: top;">
       <b>📖 The Legend:</b><br><br>
       The story follows a fearless young woman gifted with magical powers and accompanied by her irreplaceable sword. She wanders across a beautifully crafted low-poly world helping people in need, discovering forgotten places, and uncovering mysteries while bringing hope wherever she travels.
     </td>
-    <td width="45%" style="padding: 20px;">
+    <td width="50%" style="border: none; padding: 20px; vertical-align: top;">
       <b>⚙️ Current Focus:</b><br><br>
       🗡️ Action-driven Combat Systems<br>
       💬 Branching Dialogue Mechanics<br>
@@ -72,9 +74,9 @@ I operate as the lead architect of my systems. AI assistants like **Claude** and
 <br><br>
 
 <!-- TECH STACK & LEARNING -->
-<table align="center" width="90%" style="border: none;">
+<table align="center" width="100%" style="border: none;">
   <tr style="border: none;">
-    <td width="50%" align="center" style="border: none;">
+    <td width="50%" align="center" style="border: none; padding: 20px; vertical-align: top;">
       <h3>🔮 My Spellbook (Stack)</h3>
       <b>Game Dev & Programming</b><br>
       <a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=unity,cs,dotnet,cpp&theme=light" alt="Game Dev Stack"/></a><br><br>
@@ -83,7 +85,7 @@ I operate as the lead architect of my systems. AI assistants like **Claude** and
       <b>Tools & Workflows</b><br>
       <a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=git,github,vscode,visualstudio&theme=light" alt="Tools Stack"/></a>
     </td>
-    <td width="50%" align="center" style="border: none;">
+    <td width="50%" align="center" style="border: none; padding: 20px; vertical-align: top;">
       <h3>🌱 Currently Learning</h3>
       <div align="left" style="display: inline-block;">
         <ul>
@@ -101,43 +103,31 @@ I operate as the lead architect of my systems. AI assistants like **Claude** and
 <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="60%" style="filter: hue-rotate(290deg) saturate(150%) opacity(70%);">
 <br><br>
 
-<!-- ROADMAP -->
-### 🗺 My Adventure
-<div align="center">
-  <table style="border: none; width: 80%;">
-    <tr style="border: none;">
-      <td style="border: none; font-size: 16px;">
-        ✅ <b>Tutorial:</b> Learned C# Fundamentals <br><br>
-        ✅ <b>Mastery:</b> Adopted Unity Realm <br><br>
-        ✅ <b>Forging:</b> Mastered Blender Basics <br><br>
-        ✅ <b>Magic:</b> Tamed the Git Dragon <br><br>
-        🌱 <b>Current Quest:</b> Publishing <i>Wanderer's Tale</i> <br><br>
-        🔜 <b>Next Zone:</b> Exploring Unreal Engine <br><br>
-        ⭐ <b>Main Objective:</b> Steam Release <br><br>
-        💖 <b>Endgame:</b> Professional Game Developer
-      </td>
-    </tr>
-  </table>
-</div>
-
-<br><br>
-
-<!-- FUN FACTS -->
-### 🌸 The Tavern (Fun Facts)
-<div align="center">
-  <table style="border: none; width: 80%;">
-    <tr style="border: none;">
-      <td style="border: none; font-size: 16px;">
-        🐀 My spirit animal and studio mascot is a <b>Gray Rat</b>.<br><br>
-        🌸 <b>Pink</b> is my absolute favorite color.<br><br>
-        🌙 Most of my coding happens at night—I am a true <b>Night Coder</b>.<br><br>
-        ☕ <b>Coffee & Spotify</b> are always nearby when I'm developing.<br><br>
-        🎮 <b>Fantasy RPGs</b> are home, but I love trying every game genre.<br><br>
-        🚀 My ultimate dream is publishing my very own game on <b>Steam</b>.
-      </td>
-    </tr>
-  </table>
-</div>
+<!-- ROADMAP & FUN FACTS -->
+<table align="center" width="100%" style="border: none;">
+  <tr style="border: none;">
+    <td width="50%" align="left" style="border: none; padding: 20px; vertical-align: top; font-size: 15px;">
+      <h3 align="center">🗺 My Adventure</h3>
+      ✅ <b>Tutorial:</b> Learned C# Fundamentals <br><br>
+      ✅ <b>Mastery:</b> Adopted Unity Realm <br><br>
+      ✅ <b>Forging:</b> Mastered Blender Basics <br><br>
+      ✅ <b>Magic:</b> Tamed the Git Dragon <br><br>
+      🌱 <b>Current Quest:</b> Publishing <i>Wanderer's Tale</i> <br><br>
+      🔜 <b>Next Zone:</b> Exploring Unreal Engine <br><br>
+      ⭐ <b>Main Objective:</b> Steam Release <br><br>
+      💖 <b>Endgame:</b> Professional Game Developer
+    </td>
+    <td width="50%" align="left" style="border: none; padding: 20px; vertical-align: top; font-size: 15px;">
+      <h3 align="center">🌸 The Tavern (Fun Facts)</h3>
+      🐀 My spirit animal and studio mascot is a <b>Gray Rat</b>.<br><br>
+      🌸 <b>Pink</b> is my absolute favorite color.<br><br>
+      🌙 Most of my coding happens at night—I am a true <b>Night Coder</b>.<br><br>
+      ☕ <b>Coffee & Spotify</b> are always nearby when I'm developing.<br><br>
+      🎮 <b>Fantasy RPGs</b> are home, but I love trying every game genre.<br><br>
+      🚀 My ultimate dream is publishing my very own game on <b>Steam</b>.
+    </td>
+  </tr>
+</table>
 
 <br><br>
 <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="60%" style="filter: hue-rotate(290deg) saturate(150%) opacity(70%);">
@@ -222,13 +212,13 @@ I operate as the lead architect of my systems. AI assistants like **Claude** and
 ### 💌 Send a Raven
 
 <div align="center">
-  <a href="https://instagram.com/your_username"><img src="https://img.shields.io/badge/Instagram-E4A5C2?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"></a>
-  <a href="https://tiktok.com/@your_username"><img src="https://img.shields.io/badge/TikTok-F7D7E6?style=for-the-badge&logo=tiktok&logoColor=gray" alt="TikTok"></a>
-  <a href="https://twitch.tv/your_username"><img src="https://img.shields.io/badge/Twitch-F8BBD0?style=for-the-badge&logo=twitch&logoColor=white" alt="Twitch"></a>
-  <a href="mailto:your.email@example.com"><img src="https://img.shields.io/badge/Email-E4A5C2?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"></a>
+  <a href="https://instagram.com/programming.rat"><img src="https://img.shields.io/badge/Instagram-E4A5C2?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"></a>
+  <a href="https://tiktok.com/@greyhighrat"><img src="https://img.shields.io/badge/TikTok-F7D7E6?style=for-the-badge&logo=tiktok&logoColor=gray" alt="TikTok"></a>
+  <a href="https://twitch.tv/szczurnawysokosci"><img src="https://img.shields.io/badge/Twitch-F8BBD0?style=for-the-badge&logo=twitch&logoColor=white" alt="Twitch"></a>
+  <a href="mailto:martynamilic08@gmail.com"><img src="https://img.shields.io/badge/Email-E4A5C2?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"></a>
   <br><br>
   <!-- Ko-fi Button -->
-  <a href="https://ko-fi.com/your_kofi_username"><img src="https://img.shields.io/badge/Buy_Me_A_Coffee-FFB3D9?style=for-the-badge&logo=ko-fi&logoColor=white" alt="Ko-fi"></a>
+  <a href="https://ko-fi.com/MartynaM04"><img src="https://img.shields.io/badge/Buy_Me_A_Coffee-FFB3D9?style=for-the-badge&logo=ko-fi&logoColor=white" alt="Ko-fi"></a>
 </div>
 
 <br><br><br>
