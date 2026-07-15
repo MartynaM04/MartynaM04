@@ -23,10 +23,10 @@
 <table align="center" style="border: none;">
   <tr style="border: none;">
     <td align="center" style="border: none; padding: 20px;">
-      <h1>🌸 Martyna</h1>
+      <h1>🌸 Hi, I'm Martyna!</h1>
       <h3><i>The Architect of Worlds</i></h3>
       <p style="font-size: 16px;">
-        🎮 Unity Developer &nbsp;•&nbsp; 🧙 Fantasy World Builder &nbsp;•&nbsp; 🐀 Gray Rat Mascot <br>
+        🎮 Unity Developer &nbsp;•&nbsp; 🧙 Fantasy World Builder &nbsp;•&nbsp; 🐀 Feeling Like A Rat <br>
         🌙 Night Coder &nbsp;•&nbsp; ☕ Coffee Powered
       </p>
     </td>
@@ -40,9 +40,9 @@
 <!-- INTRODUCTION -->
 ### ✨ About the Architect
 
-I am an aspiring **Game Developer** with a passion for weaving low-poly fantasy worlds, robust RPG mechanics, and immersive adventures. My primary domain is **Unity 6.5**, where I continuously refine my workflows and experiment with the latest engine features. 
+I am an aspiring **Game Developer** with a passion for creating low-poly fantasy worlds, classic RPG mechanics, and immersive adventures. My primary domain is **Unity 6.5**, where I continuously refine my workflows and experiment with the latest engine features. 
 
-I operate as the lead architect of my systems. AI assistants like **Claude** and **Claude Code** act as my contractors—I design the intricate game architecture and narratives, while they help me implement the codebase faster. This synergy allows me to maintain absolute creative control while bringing my visions to life at the speed of thought.
+I operate as the lead architect of my systems. AI assistants like **Claude** and **Claude Code** act as my contractors. I design the complex game architecture and narratives, while they help me implement the codebase faster. This synergy allows me to maintain absolute creative control while bringing my visions to life at the speed of thought.
 
 <br><br>
 <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="60%" style="filter: hue-rotate(290deg) saturate(150%) opacity(70%);">
@@ -109,9 +109,8 @@ I operate as the lead architect of my systems. AI assistants like **Claude** and
     <td width="50%" align="left" style="border: none; padding: 20px; vertical-align: top; font-size: 15px;">
       <h3 align="center">🗺 My Adventure</h3>
       ✅ <b>Tutorial:</b> Learned C# Fundamentals <br><br>
-      ✅ <b>Mastery:</b> Adopted Unity Realm <br><br>
-      ✅ <b>Forging:</b> Mastered Blender Basics <br><br>
-      ✅ <b>Magic:</b> Tamed the Git Dragon <br><br>
+      ✅ <b>Mastery:</b> Internalized Unity Engine <br><br>
+      ✅ <b>Magic:</b> Tamed the GitHub <br><br>
       🌱 <b>Current Quest:</b> Publishing <i>Wanderer's Tale</i> <br><br>
       🔜 <b>Next Zone:</b> Exploring Unreal Engine <br><br>
       ⭐ <b>Main Objective:</b> Steam Release <br><br>
@@ -121,7 +120,7 @@ I operate as the lead architect of my systems. AI assistants like **Claude** and
       <h3 align="center">🌸 The Tavern (Fun Facts)</h3>
       🐀 My spirit animal and studio mascot is a <b>Gray Rat</b>.<br><br>
       🌸 <b>Pink</b> is my absolute favorite color.<br><br>
-      🌙 Most of my coding happens at night—I am a true <b>Night Coder</b>.<br><br>
+      🌙 Most of my coding happens at night - I am a true <b>Night Coder</b>.<br><br>
       ☕ <b>Coffee & Spotify</b> are always nearby when I'm developing.<br><br>
       🎮 <b>Fantasy RPGs</b> are home, but I love trying every game genre.<br><br>
       🚀 My ultimate dream is publishing my very own game on <b>Steam</b>.
@@ -134,7 +133,7 @@ I operate as the lead architect of my systems. AI assistants like **Claude** and
 <br><br>
 
 <!-- FAVOURITE GAMES -->
-### 🎲 Inspirations & Favorite Realms
+### 🎲 Inspirations & favorite realms
 
 <div align="center">
   <img src="https://img.shields.io/badge/Baldur's_Gate_3-E4A5C2?style=for-the-badge&logoColor=white" alt="BG3">
@@ -149,7 +148,7 @@ I operate as the lead architect of my systems. AI assistants like **Claude** and
 <br><br>
 
 <!-- NOW PLAYING (SPOTIFY) -->
-### 🎧 Spotify (Now Playing)
+### 🎧 What I listen to while working...
 
 <div align="center">
   <a href="https://open.spotify.com/user/Bonwendura">
@@ -210,7 +209,7 @@ I operate as the lead architect of my systems. AI assistants like **Claude** and
 <br><br>
 
 <!-- CONTACT -->
-### 💌 Send a Raven
+### 💌 You can find me here!
 
 <div align="center">
   <a href="https://instagram.com/programming.rat"><img src="https://img.shields.io/badge/Instagram-E4A5C2?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"></a>
@@ -227,7 +226,7 @@ I operate as the lead architect of my systems. AI assistants like **Claude** and
 <!-- FOOTER -->
 <div align="center">
   <p style="font-size: 16px; color: #E4A5C2; font-style: italic;">
-    "May your builds succeed and your adventures never end." ✨
+    "Don't you ever give up." ✨
   </p>
   <br>
   <!-- Kawaii Visitor Counter -->
