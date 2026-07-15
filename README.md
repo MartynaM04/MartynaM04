@@ -121,9 +121,9 @@ I enjoy creating immersive worlds, experimenting with mechanics, and continuousl
 
 <p align="center">
 
-<img height="175" src="https://github-readme-stats.vercel.app/api?username=MartynaM04&show_icons=true&hide_border=true&bg_color=00000000&title_color=e4a5c2&icon_color=e4a5c2&text_color=d6b5c4"/>
+<img height="175" src="https://github-readme-stats.vercel.app/api?username=MartynaM04&show_icons=true&theme=transparent&hide_border=true"/>
 
-<img height="175" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MartynaM04&layout=compact&hide_border=true&bg_color=00000000&title_color=e4a5c2&text_color=d6b5c4"/>
+<img height="175" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MartynaM04&layout=compact&theme=transparent&hide_border=true"/>
 
 </p>
 
