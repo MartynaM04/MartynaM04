@@ -1,172 +1,215 @@
-<!-- ========================= -->
-<!--      GITHUB PROFILE       -->
-<!-- ========================= -->
+````markdown
+<!-- ╭────────────────────────────────────────────────────────────╮ -->
+<!-- │                     🌸 Martyna's README 🌸                 │ -->
+<!-- │          Replace links & usernames with your own           │ -->
+<!-- ╰────────────────────────────────────────────────────────────╯ -->
 
 <p align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://capsule-render.vercel.app/api?type=waving&height=280&color=0:FF69B4,35:EF93C4,70:F8BBD0,100:2D1B33&text=Welcome%20to%20My%20GitHub&fontColor=FFFFFF&fontSize=48&animation=fadeIn&fontAlignY=38&desc=Building%20beautiful%20things%20one%20commit%20at%20a%20time.&descAlignY=58">
-    <source media="(prefers-color-scheme: light)" srcset="https://capsule-render.vercel.app/api?type=waving&height=280&color=0:F8BBD0,35:EF93C4,70:FF69B4,100:FFD6EA&text=Welcome%20to%20My%20GitHub&fontColor=FFFFFF&fontSize=48&animation=fadeIn&fontAlignY=38&desc=Building%20beautiful%20things%20one%20commit%20at%20a%20time.&descAlignY=58">
-    <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=280&color=0:EF93C4,100:FF69B4&text=Welcome%20to%20My%20GitHub&fontColor=FFFFFF&fontSize=48&animation=fadeIn" alt="Banner">
-  </picture>
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="art/header-dark.png">
+  <source media="(prefers-color-scheme: light)" srcset="art/header-light.png">
+  <img alt="Hi, I'm Martyna!" src="art/header-light.png" width="100%">
+</picture>
+
 </p>
 
-<h1 align="center">Hey there, I'm Martyna 👋</h1>
+<h1 align="center">
+  🌸 Hey there, I'm Martyna 🌸
+</h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=26&duration=3000&pause=1200&center=true&vCenter=true&width=900&height=55&color=FF69B4&lines=Frontend+Developer;UI%2FUX+Enthusiast;Open+Source+Learner;Always+Building+Something+New;Welcome+to+my+GitHub+Profile+%F0%9F%92%96" alt="Typing Animation" />
+  <img
+    src="https://readme-typing-svg.demolab.com?font=Quicksand&weight=700&size=24&pause=1500&center=true&vCenter=true&width=700&color=E4A5C2&lines=%F0%9F%8E%AE+Game+Developer;%F0%9F%8C%B8+Fantasy+%26+RPG+Enjoyer;%E2%9C%A8+Unity+Developer;%F0%9F%A4%8D+Always+Learning+Something+New;%F0%9F%92%96+Welcome+to+my+little+corner+of+GitHub"
+    alt="Typing SVG"
+/>
 </p>
 
 <p align="center">
-  <img src="https://img.shields.io/github/followers/[MartynaM04]?style=for-the-badge&logo=github&label=Followers&color=FF69B4&labelColor=F8BBD0" />
-  <img src="https://img.shields.io/github/stars/[MartynaM04]?affiliations=OWNER&style=for-the-badge&logo=github&label=Stars&color=EF93C4&labelColor=F8BBD0" />
-  <img src="https://komarev.com/ghpvc/?username=[MartynaM04]&style=for-the-badge&color=FF69B4&label=Profile+Views" />
+  <img src="https://img.shields.io/github/followers/MartynaM04?style=for-the-badge&logo=github&logoColor=white&color=e4a5c2&labelColor=f7d7e6&label=Followers"/>
+  <img src="https://img.shields.io/github/stars/MartynaM04?affiliations=OWNER&style=for-the-badge&logo=github&logoColor=white&color=e4a5c2&labelColor=f7d7e6&label=Stars"/>
+  <img src="https://komarev.com/ghpvc/?username=MartynaM04&style=for-the-badge&color=e4a5c2&label=Profile+Views"/>
 </p>
 
----
+<br>
 
-# ✨ About Me
+<img src="https://capsule-render.vercel.app/api?type=soft&color=e4a5c2&height=2&section=header"/>
 
-<table align="center" width="100%">
+# 🌸 About Me
+
+<table align="center">
 <tr>
+
 <td width="65%" valign="top">
 
-### 💗 Hi!
+### ✨ Hi there!
 
-I'm **[Martyna]**, a passionate developer who enjoys creating modern, elegant and user-friendly digital experiences.
+I'm **Martyna**, an aspiring **game developer** who is still learning her way through game development, but always gives it her best.
 
-🌸 Currently learning new technologies every day
+I enjoy creating immersive worlds, experimenting with mechanics, and continuously improving my skills while working on personal projects.
 
-💻 Building projects that combine creativity with clean code
+### 💖 Currently
 
-🎨 Interested in UI/UX, web development and open source
+🎮 Developing games with **Unity 5/6** and exploring its newest technologies.
 
-🚀 Always excited to explore new tools and frameworks
+🧙 Mostly creating **Fantasy** and **RPG** experiences.
 
-☕ Coffee + Music + Coding = Perfect Day
+🚀 Also fascinated by **Sci-Fi** worlds and **Visual Novel** style storytelling.
 
----
+🤖 Comfortable designing workflows around **AI models** and integrating them into development pipelines.
 
-### 🌷 Current Goals
+🌸 Always learning something new every single day.
 
-- 🌸 Improve my frontend skills
-- 💖 Build beautiful full-stack applications
-- ✨ Contribute to open source
-- 🚀 Grow as a software developer
+### 🎀 Goals
+
+- 🌸 Build beautiful **Low Poly** games
+- 🎮 Become a professional **Game Developer**
+- ⚔️ Create memorable Fantasy RPG worlds
+- 🚀 Learn **Unreal Engine**
+- 💕 Keep growing as both a programmer and designer
+
+> *"Every great game starts as someone's tiny idea."* ✨
 
 </td>
 
 <td width="35%" align="center">
 
-<img
-width="300"
-src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif"
-alt="Coding Girl"/>
+<img width="270" src="https://media.tenor.com/NOYF3f82b_gAAAAC/anime-computer.gif">
+
+<br><br>
+
+<img src="https://img.shields.io/badge/Favorite-🌸%20Fantasy-e4a5c2?style=for-the-badge">
+
+<br>
+
+<img src="https://img.shields.io/badge/Engine-Unity-e4a5c2?style=for-the-badge">
+
+<br>
+
+<img src="https://img.shields.io/badge/Dream-Unreal%20Engine-e4a5c2?style=for-the-badge">
 
 </td>
+
 </tr>
 </table>
 
----
+<br>
 
-# 💻 Tech Stack
+<img src="https://capsule-render.vercel.app/api?type=soft&color=e4a5c2&height=2&section=header"/>
 
-<p align="center">
-
-<img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,nodejs,express,tailwind,bootstrap,python,java,cs,c,cpp,mysql,postgres,mongodb,firebase,git,github,vscode,figma,linux,docker&perline=13" />
-
-</p>
-
----
-
-# 📊 GitHub Statistics
+# 🩷 Tech Stack
 
 <p align="center">
 
-<img
-height="180"
-src="https://github-readme-stats.vercel.app/api?username=[MartynaM04]&show_icons=true&theme=transparent&title_color=FF69B4&icon_color=EF93C4&text_color=F8BBD0&border_color=FF69B4"/>
-
-<img
-height="180"
-src="https://github-readme-stats.vercel.app/api/top-langs/?username=[MartynaM04]&layout=compact&theme=transparent&title_color=FF69B4&text_color=F8BBD0&border_color=FF69B4"/>
+<img src="https://skillicons.dev/icons?i=unity,cs,cpp,git,github,vscode,visualstudio,blender,ps,ai,html,css,js,nodejs,python&theme=light"/>
 
 </p>
 
----
+<p align="center">
+
+<img src="https://img.shields.io/badge/Unity_5/6-e4a5c2?style=for-the-badge">
+<img src="https://img.shields.io/badge/Game_Development-f7c8dd?style=for-the-badge">
+<img src="https://img.shields.io/badge/AI_Workflows-e4a5c2?style=for-the-badge">
+<img src="https://img.shields.io/badge/RPG_Design-f7c8dd?style=for-the-badge">
+
+</p>
+
+<br>
+
+<img src="https://capsule-render.vercel.app/api?type=soft&color=e4a5c2&height=2&section=header"/>
+
+# 🌷 GitHub Stats
+
+<p align="center">
+
+<img height="175" src="https://github-readme-stats.vercel.app/api?username=MartynaM04&show_icons=true&hide_border=true&bg_color=00000000&title_color=e4a5c2&icon_color=e4a5c2&text_color=d6b5c4"/>
+
+<img height="175" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MartynaM04&layout=compact&hide_border=true&bg_color=00000000&title_color=e4a5c2&text_color=d6b5c4"/>
+
+</p>
+
+<br>
 
 # 🔥 GitHub Streak
 
 <p align="center">
 
-<img
-src="https://streak-stats.demolab.com?user=[MartynaM04]&theme=transparent&ring=FF69B4&fire=EF93C4&currStreakLabel=FF69B4&sideLabels=F8BBD0&dates=F8BBD0&border=FF69B4"/>
+<img src="https://streak-stats.demolab.com?user=MartynaM04&hide_border=true&background=00000000&ring=E4A5C2&fire=E4A5C2&currStreakLabel=E4A5C2&sideLabels=F3D4E2&dates=EEC6D9"/>
 
 </p>
 
----
+<br>
 
-# 📈 Activity Graph
+# 🌸 Activity Graph
 
 <p align="center">
 
-<img
-src="https://github-readme-activity-graph.vercel.app/graph?username=[MartynaM04]&bg_color=00000000&color=F8BBD0&line=EF93C4&point=FF69B4&area=true&hide_border=true&area_color=EF93C4"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=MartynaM04&bg_color=00000000&hide_border=true&line=E4A5C2&point=F8BBD0&color=E4A5C2&area=true&area_color=F7D7E6"/>
 
 </p>
 
----
+<br>
+
+<img src="https://capsule-render.vercel.app/api?type=soft&color=e4a5c2&height=2&section=header"/>
 
 # 🐍 Contribution Snake
 
 <p align="center">
 
-<img src="https://raw.githubusercontent.com/[MartynaM04]/[MartynaM04]/output/github-contribution-grid-snake-pink.svg" alt="Snake animation"/>
+<img src="https://raw.githubusercontent.com/MartynaM04/MartynaM04/output/github-contribution-grid-snake.svg" alt="Contribution Snake"/>
 
 </p>
 
 ```yaml
-# GitHub Action
-# Save as:
 # .github/workflows/snake.yml
 #
-# This workflow generates the contribution snake animation.
+# Generates the contribution snake automatically.
 #
-# The SVG output should be committed to:
-# output/github-contribution-grid-snake-pink.svg
+# Output:
+# output/github-contribution-grid-snake.svg
+#
+# Replace "MartynaM04" if your username changes.
 ```
 
----
+<br>
 
-# 🌐 Connect With Me
+<img src="https://capsule-render.vercel.app/api?type=soft&color=e4a5c2&height=2&section=header"/>
+
+# 💌 Let's Connect
 
 <p align="center">
 
-<a href="https://linkedin.com/in/[Martyna]">
-<img src="https://img.shields.io/badge/LinkedIn-FF69B4?style=for-the-badge&logo=linkedin&logoColor=white"/>
+<a href="https://linkedin.com/in/Martyna">
+<img src="https://img.shields.io/badge/LinkedIn-e4a5c2?style=for-the-badge&logo=linkedin&logoColor=white">
 </a>
 
-<a href="https://instagram.com/[Martyna]">
-<img src="https://img.shields.io/badge/Instagram-EF93C4?style=for-the-badge&logo=instagram&logoColor=white"/>
+<a href="https://instagram.com/Martyna">
+<img src="https://img.shields.io/badge/Instagram-e4a5c2?style=for-the-badge&logo=instagram&logoColor=white">
 </a>
 
-<a href="https://tiktok.com/@[Martyna]">
-<img src="https://img.shields.io/badge/TikTok-FF69B4?style=for-the-badge&logo=tiktok&logoColor=white"/>
+<a href="https://www.tiktok.com/@Martyna">
+<img src="https://img.shields.io/badge/TikTok-e4a5c2?style=for-the-badge&logo=tiktok&logoColor=white">
 </a>
 
-<a href="https://twitch.tv/[Martyna]">
-<img src="https://img.shields.io/badge/Twitch-EF93C4?style=for-the-badge&logo=twitch&logoColor=white"/>
+<a href="https://twitch.tv/Martyna">
+<img src="https://img.shields.io/badge/Twitch-e4a5c2?style=for-the-badge&logo=twitch&logoColor=white">
 </a>
 
-<a href="mailto:[email@example.com]">
-<img src="https://img.shields.io/badge/Email-FF69B4?style=for-the-badge&logo=gmail&logoColor=white"/>
+<a href="mailto:your@email.com">
+<img src="https://img.shields.io/badge/Email-e4a5c2?style=for-the-badge&logo=gmail&logoColor=white">
 </a>
 
 </p>
 
----
+<br>
 
 <p align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=150&section=footer&color=0:FF69B4,50:EF93C4,100:F8BBD0"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=e4a5c2&height=160&section=footer"/>
 
 </p>
+
+<p align="center">
+  <sub>🌸 Made with love, curiosity, and way too much coffee ☕💖</sub>
+</p>
+````
