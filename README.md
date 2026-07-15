@@ -172,10 +172,9 @@ I operate as the lead architect of my systems. AI assistants like **Claude** and
 
 <br>
 
-<!-- WakaTime & Top Languages -->
+<!-- WakaTime -->
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/wakatime?username=MartynaM04&layout=compact&bg_color=00000000&title_color=E4A5C2&text_color=d87a9f&hide_border=true" alt="WakaTime Stats" height="160px"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MartynaM04&layout=compact&bg_color=00000000&title_color=E4A5C2&text_color=d87a9f&hide_border=true" alt="Top Languages" height="160px"/>
+  <img src="https://github-readme-stats.vercel.app/api/wakatime?username=@1dccc52a-9fac-4abc-a43b-a4f3c7c35ddf&layout=compact&bg_color=00000000&title_color=E4A5C2&text_color=d87a9f&hide_border=true" alt="WakaTime Stats" />
 </div>
 
 <br>
