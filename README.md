@@ -155,7 +155,7 @@ I operate as the lead architect of my systems. AI assistants like **Claude** and
   2. Deploy to Vercel and link your Spotify.
   3. Replace the `src` below with your new Vercel URL.
 -->
-<a href="https://open.spotify.com/user/your_spotify_id">
+<a href="https://open.spotify.com/user/bonwendura">
   <img src="https://spotify-github-profile.vercel.app/api/view?uid=spotify&cover_image=true&theme=novatorem&color=E4A5C2&background_color=121212" alt="Spotify Now Playing" width="400px"/>
 </a>
 
