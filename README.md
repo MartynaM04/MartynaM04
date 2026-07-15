@@ -129,6 +129,14 @@ A fearless young woman, gifted with magic and never without her sword, wanders a
 
 ### Favourite Games
 
+<img src="https://img.shields.io/badge/Baldur's_Gate_3-F8BBD0?style=flat-square" alt="">
+<img src="https://img.shields.io/badge/Dragon_Age-F8BBD0?style=flat-square" alt="">
+<img src="https://img.shields.io/badge/Divinity:_Original_Sin-F8BBD0?style=flat-square" alt="">
+<img src="https://img.shields.io/badge/Avowed-F8BBD0?style=flat-square" alt="">
+<img src="https://img.shields.io/badge/Paralives-F8BBD0?style=flat-square" alt="">
+<img src="https://img.shields.io/badge/A_Way_Out-F8BBD0?style=flat-square" alt="">
+<img src="https://img.shields.io/badge/Red_Dead_Redemption_2-F8BBD0?style=flat-square" alt="">
+
 — Baldur's Gate 3
 — Dragon Age
 — Divinity: Original Sin
