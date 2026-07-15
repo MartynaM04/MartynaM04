@@ -106,7 +106,7 @@ I enjoy creating immersive worlds, experimenting with mechanics, and continuousl
 
 <p align="center">
 
-<img src="https://img.shields.io/badge/Unity_5/6-e4a5c2?style=for-the-badge">
+<img src="https://img.shields.io/badge/Unity_6.5-e4a5c2?style=for-the-badge">
 <img src="https://img.shields.io/badge/Game_Development-f7c8dd?style=for-the-badge">
 <img src="https://img.shields.io/badge/AI_Workflows-e4a5c2?style=for-the-badge">
 <img src="https://img.shields.io/badge/RPG_Design-f7c8dd?style=for-the-badge">
