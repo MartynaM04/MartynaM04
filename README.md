@@ -71,7 +71,7 @@ I operate as the lead architect of my systems. AI assistants like **Claude** and
 <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="60%" style="filter: hue-rotate(290deg) saturate(150%) opacity(70%);">
 <br><br>
 
-<!-- TECH STACK & LEARNING (SIDE BY SIDE) -->
+<!-- TECH STACK & LEARNING -->
 <table align="center" width="90%" style="border: none;">
   <tr style="border: none;">
     <td width="50%" align="center" style="border: none;">
@@ -101,31 +101,43 @@ I operate as the lead architect of my systems. AI assistants like **Claude** and
 <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="60%" style="filter: hue-rotate(290deg) saturate(150%) opacity(70%);">
 <br><br>
 
-<!-- ROADMAP & FUN FACTS (SIDE BY SIDE) -->
-<table align="center" width="100%" style="border: none;">
-  <tr style="border: none;">
-    <td width="50%" align="left" style="border: none; padding: 0 20px;">
-      <h3 align="center">🗺 My Adventure</h3>
-      ✅ <b>Tutorial:</b> Learned C# Fundamentals<br>
-      ✅ <b>Mastery:</b> Adopted Unity Realm<br>
-      ✅ <b>Forging:</b> Blender Basics<br>
-      ✅ <b>Magic:</b> Tamed the Git Dragon<br>
-      🌱 <b>Quest:</b> Publishing <i>Wanderer's Tale</i><br>
-      🔜 <b>Next:</b> Exploring Unreal Engine<br>
-      ⭐ <b>Objective:</b> Steam Release<br>
-      💖 <b>Endgame:</b> Pro Game Developer
-    </td>
-    <td width="50%" align="left" style="border: none; padding: 0 20px;">
-      <h3 align="center">🌸 The Tavern (Fun Facts)</h3>
-      🐀 My spirit animal and mascot is a <b>Gray Rat</b>.<br>
-      🌸 <b>Pink</b> is my absolute favorite color.<br>
-      🌙 Most of my coding happens at <b>night</b>.<br>
-      ☕ <b>Coffee & Spotify</b> are always nearby.<br>
-      🎮 <b>Fantasy RPGs</b> are home, but I play everything.<br>
-      🚀 My dream is publishing my game on <b>Steam</b>.
-    </td>
-  </tr>
-</table>
+<!-- ROADMAP -->
+### 🗺 My Adventure
+<div align="center">
+  <table style="border: none; width: 80%;">
+    <tr style="border: none;">
+      <td style="border: none; font-size: 16px;">
+        ✅ <b>Tutorial:</b> Learned C# Fundamentals <br><br>
+        ✅ <b>Mastery:</b> Adopted Unity Realm <br><br>
+        ✅ <b>Forging:</b> Mastered Blender Basics <br><br>
+        ✅ <b>Magic:</b> Tamed the Git Dragon <br><br>
+        🌱 <b>Current Quest:</b> Publishing <i>Wanderer's Tale</i> <br><br>
+        🔜 <b>Next Zone:</b> Exploring Unreal Engine <br><br>
+        ⭐ <b>Main Objective:</b> Steam Release <br><br>
+        💖 <b>Endgame:</b> Professional Game Developer
+      </td>
+    </tr>
+  </table>
+</div>
+
+<br><br>
+
+<!-- FUN FACTS -->
+### 🌸 The Tavern (Fun Facts)
+<div align="center">
+  <table style="border: none; width: 80%;">
+    <tr style="border: none;">
+      <td style="border: none; font-size: 16px;">
+        🐀 My spirit animal and studio mascot is a <b>Gray Rat</b>.<br><br>
+        🌸 <b>Pink</b> is my absolute favorite color.<br><br>
+        🌙 Most of my coding happens at night—I am a true <b>Night Coder</b>.<br><br>
+        ☕ <b>Coffee & Spotify</b> are always nearby when I'm developing.<br><br>
+        🎮 <b>Fantasy RPGs</b> are home, but I love trying every game genre.<br><br>
+        🚀 My ultimate dream is publishing my very own game on <b>Steam</b>.
+      </td>
+    </tr>
+  </table>
+</div>
 
 <br><br>
 <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="60%" style="filter: hue-rotate(290deg) saturate(150%) opacity(70%);">
@@ -149,14 +161,8 @@ I operate as the lead architect of my systems. AI assistants like **Claude** and
 <!-- NOW PLAYING (SPOTIFY) -->
 ### 🎧 Tavern Ambience (Now Playing)
 
-<!-- 
-  SETUP INSTRUCTIONS:
-  1. Go to https://github.com/novatem/spotify-readme
-  2. Deploy to Vercel and link your Spotify.
-  3. Replace the `src` below with your new Vercel URL.
--->
-<a href="https://open.spotify.com/user/bonwendura">
-  <img src="https://spotify-github-profile.vercel.app/api/view?uid=spotify&cover_image=true&theme=novatorem&color=E4A5C2&background_color=121212" alt="Spotify Now Playing" width="400px"/>
+<a href="https://open.spotify.com/user/Bonwendura">
+  <img src="https://spotify-github-profile.vercel.app/api/view?uid=Bonwendura&cover_image=true&theme=novatorem&color=E4A5C2&background_color=121212" alt="Spotify Now Playing" width="400px"/>
 </a>
 
 <br><br>
@@ -176,6 +182,14 @@ I operate as the lead architect of my systems. AI assistants like **Claude** and
 
 <br>
 
+<!-- WakaTime & Top Languages -->
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api/wakatime?username=MartynaM04&layout=compact&bg_color=00000000&title_color=E4A5C2&text_color=d87a9f&hide_border=true" alt="WakaTime Stats" height="160px"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MartynaM04&layout=compact&bg_color=00000000&title_color=E4A5C2&text_color=d87a9f&hide_border=true" alt="Top Languages" height="160px"/>
+</div>
+
+<br>
+
 <!-- Trophies -->
 <div align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=MartynaM04&theme=dracula&no-bg=true&no-frame=true&text=E4A5C2&title=F8BBD0" alt="GitHub Trophies" />
@@ -183,10 +197,8 @@ I operate as the lead architect of my systems. AI assistants like **Claude** and
 
 <br>
 
-<!-- Top Languages & Activity Graph -->
+<!-- Activity Graph -->
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MartynaM04&layout=compact&bg_color=00000000&title_color=E4A5C2&text_color=d87a9f&hide_border=true" alt="Top Languages" width="350px"/>
-  <br><br>
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=MartynaM04&bg_color=00000000&color=E4A5C2&line=F8BBD0&point=E4A5C2&area=true&hide_border=true&title_color=E4A5C2" alt="Activity Graph" width="80%"/>
 </div>
 
@@ -209,16 +221,26 @@ I operate as the lead architect of my systems. AI assistants like **Claude** and
 <!-- CONTACT -->
 ### 💌 Send a Raven
 
-<a href="https://instagram.com/your_username"><img src="https://img.shields.io/badge/Instagram-E4A5C2?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"></a>
-<a href="https://tiktok.com/@your_username"><img src="https://img.shields.io/badge/TikTok-F7D7E6?style=for-the-badge&logo=tiktok&logoColor=gray" alt="TikTok"></a>
-<a href="https://twitch.tv/your_username"><img src="https://img.shields.io/badge/Twitch-F8BBD0?style=for-the-badge&logo=twitch&logoColor=white" alt="Twitch"></a>
-<a href="mailto:your.email@example.com"><img src="https://img.shields.io/badge/Email-E4A5C2?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"></a>
+<div align="center">
+  <a href="https://instagram.com/your_username"><img src="https://img.shields.io/badge/Instagram-E4A5C2?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"></a>
+  <a href="https://tiktok.com/@your_username"><img src="https://img.shields.io/badge/TikTok-F7D7E6?style=for-the-badge&logo=tiktok&logoColor=gray" alt="TikTok"></a>
+  <a href="https://twitch.tv/your_username"><img src="https://img.shields.io/badge/Twitch-F8BBD0?style=for-the-badge&logo=twitch&logoColor=white" alt="Twitch"></a>
+  <a href="mailto:your.email@example.com"><img src="https://img.shields.io/badge/Email-E4A5C2?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"></a>
+  <br><br>
+  <!-- Ko-fi Button -->
+  <a href="https://ko-fi.com/your_kofi_username"><img src="https://img.shields.io/badge/Buy_Me_A_Coffee-FFB3D9?style=for-the-badge&logo=ko-fi&logoColor=white" alt="Ko-fi"></a>
+</div>
 
 <br><br><br>
 
 <!-- FOOTER -->
-<p align="center" style="font-size: 16px; color: #E4A5C2; font-style: italic;">
-  "May your builds succeed and your adventures never end." ✨
-</p>
+<div align="center">
+  <p style="font-size: 16px; color: #E4A5C2; font-style: italic;">
+    "May your builds succeed and your adventures never end." ✨
+  </p>
+  <br>
+  <!-- Kawaii Visitor Counter -->
+  <img src="https://komarev.com/ghpvc/?username=MartynaM04&label=Tavern%20Visitors&color=E4A5C2&style=flat-square" alt="Visitor Counter" />
+</div>
 
 </div>
