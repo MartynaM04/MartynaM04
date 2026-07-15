@@ -166,8 +166,6 @@ I enjoy creating immersive worlds, experimenting with mechanics, and continuousl
 #
 # Output:
 # output/github-contribution-grid-snake.svg
-#
-# Replace "MartynaM04" if your username changes.
 ```
 
 <br>
@@ -182,19 +180,19 @@ I enjoy creating immersive worlds, experimenting with mechanics, and continuousl
 <img src="https://img.shields.io/badge/LinkedIn-e4a5c2?style=for-the-badge&logo=linkedin&logoColor=white">
 </a>
 
-<a href="https://instagram.com/Martyna">
+<a href="https://instagram.com/programming.rat">
 <img src="https://img.shields.io/badge/Instagram-e4a5c2?style=for-the-badge&logo=instagram&logoColor=white">
 </a>
 
-<a href="https://www.tiktok.com/@Martyna">
+<a href="https://www.tiktok.com/@greyhighrat">
 <img src="https://img.shields.io/badge/TikTok-e4a5c2?style=for-the-badge&logo=tiktok&logoColor=white">
 </a>
 
-<a href="https://twitch.tv/Martyna">
+<a href="https://twitch.tv/szczurnawysokosci">
 <img src="https://img.shields.io/badge/Twitch-e4a5c2?style=for-the-badge&logo=twitch&logoColor=white">
 </a>
 
-<a href="mailto:your@email.com">
+<a href="mailto:martynamilic08@gmail.com">
 <img src="https://img.shields.io/badge/Email-e4a5c2?style=for-the-badge&logo=gmail&logoColor=white">
 </a>
 
