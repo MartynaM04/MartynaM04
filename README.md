@@ -42,7 +42,7 @@
 
 ---
 
-### 🌸 About Me
+### About Me
 
 I am an aspiring **Game Developer** with a passion for building robust RPG mechanics, highly optimized systems, and immersive environments. My primary engine is **Unity 6.5**, where I continuously refine my workflows and experiment with the latest engine features. 
 
@@ -50,7 +50,7 @@ I operate as the lead architect of my projects. AI assistants like Claude act as
 
 ---
 
-### 💻 Current Project: Wanderer's Tale
+### Current Project: Wanderer's Tale
 
 *A low-poly 3D adventure developed in Unity 6.5.*
 
@@ -75,7 +75,7 @@ I operate as the lead architect of my projects. AI assistants like Claude act as
 
 ---
 
-### ⚙️ Tech Stack & Learning
+### Tech Stack & Learning
 
 <table width="100%" style="border: none;">
   <tr style="border: none;">
@@ -99,29 +99,29 @@ I operate as the lead architect of my projects. AI assistants like Claude act as
 
 ---
 
-### 🗺️ Development Roadmap
+### Development Roadmap
 
 <table width="100%" style="border: none;">
   <tr style="border: none;">
     <td width="50%" align="left" style="border: none; vertical-align: top; padding-right: 20px;">
       <b>Milestones</b>
       <ul>
-        <li>✅ Core C# Fundamentals</li>
-        <li>✅ Unity Engine Mastery</li>
-        <li>✅ Git & Version Control</li>
-        <li>🌱 Developing <i>Wanderer's Tale</i></li>
-        <li>🔜 Unreal Engine Transition</li>
-        <li>⭐ Commercial Steam Release</li>
+        <li>Core C# Fundamentals (Completed)</li>
+        <li>Unity Engine Mastery (Completed)</li>
+        <li>Git & Version Control (Completed)</li>
+        <li>Developing <i>Wanderer's Tale</i> (In Progress)</li>
+        <li>Unreal Engine Transition (Planned)</li>
+        <li>Commercial Steam Release (Goal)</li>
       </ul>
     </td>
     <td width="50%" align="left" style="border: none; vertical-align: top; padding-left: 20px;">
       <b>Personal Profile</b>
       <ul>
-        <li>🌸 <b>Aesthetic:</b> Pastel pink minimalism</li>
-        <li>🌙 <b>Workflow:</b> Dedicated night coder</li>
-        <li>☕ <b>Fuel:</b> Coffee & constant Spotify playback</li>
-        <li>🎮 <b>Interests:</b> RPGs and deep system mechanics</li>
-        <li>🚀 <b>Goal:</b> Professional Indie Game Developer</li>
+        <li><b>Aesthetic:</b> Pastel pink minimalism</li>
+        <li><b>Workflow:</b> Dedicated night coder</li>
+        <li><b>Fuel:</b> Coffee & constant Spotify playback</li>
+        <li><b>Interests:</b> RPGs and deep system mechanics</li>
+        <li><b>Goal:</b> Professional Indie Game Developer</li>
       </ul>
     </td>
   </tr>
@@ -129,7 +129,7 @@ I operate as the lead architect of my projects. AI assistants like Claude act as
 
 ---
 
-### 🎲 Inspirations
+### Inspirations
 
 <div align="center">
   <img src="https://img.shields.io/badge/Baldur's_Gate_3-E4A5C2?style=for-the-badge&logoColor=white" alt="BG3">
@@ -142,7 +142,7 @@ I operate as the lead architect of my projects. AI assistants like Claude act as
 
 ---
 
-### 🎧 Now Playing
+### Now Playing
 
 <div align="center">
   <a href="https://open.spotify.com/user/Bonwendura">
@@ -152,7 +152,7 @@ I operate as the lead architect of my projects. AI assistants like Claude act as
 
 ---
 
-### 📊 GitHub Analytics
+### GitHub Analytics
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=MartynaM04&show_icons=true&bg_color=00000000&title_color=E4A5C2&text_color=d87a9f&icon_color=E4A5C2&hide_border=true&include_all_commits=true" alt="GitHub Stats" height="170px"/>
@@ -180,7 +180,7 @@ I operate as the lead architect of my projects. AI assistants like Claude act as
 <br>
 
 <div align="center">
-  <h4>🐍 Contribution Snake</h4>
+  <h4>Contribution Snake</h4>
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/MartynaM04/MartynaM04/output/github-contribution-grid-snake-dark.svg">
     <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/MartynaM04/MartynaM04/output/github-contribution-grid-snake.svg">
@@ -190,7 +190,7 @@ I operate as the lead architect of my projects. AI assistants like Claude act as
 
 ---
 
-### 💌 Contact
+### Contact
 
 <div align="center">
   <a href="https://instagram.com/programming.rat"><img src="https://img.shields.io/badge/Instagram-E4A5C2?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"></a>
@@ -207,7 +207,7 @@ I operate as the lead architect of my projects. AI assistants like Claude act as
 <!-- FOOTER -->
 <div align="center">
   <p style="font-size: 14px; color: gray;">
-    <i>"Don't you ever give up."</i> ✨
+    <i>"Don't you ever give up."</i>
   </p>
   <br>
   <img src="https://komarev.com/ghpvc/?username=MartynaM04&label=Profile%20Views&color=E4A5C2&style=flat-square" alt="Visitor Counter" />
