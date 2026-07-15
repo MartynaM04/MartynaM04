@@ -176,10 +176,6 @@ I enjoy creating immersive worlds, experimenting with mechanics, and continuousl
 
 <p align="center">
 
-<a href="https://linkedin.com/in/Martyna">
-<img src="https://img.shields.io/badge/LinkedIn-e4a5c2?style=for-the-badge&logo=linkedin&logoColor=white">
-</a>
-
 <a href="https://instagram.com/programming.rat">
 <img src="https://img.shields.io/badge/Instagram-e4a5c2?style=for-the-badge&logo=instagram&logoColor=white">
 </a>
