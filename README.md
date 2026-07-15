@@ -8,7 +8,7 @@
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="art/header-dark.png">
   <source media="(prefers-color-scheme: light)" srcset="art/header-light.png">
-  <img alt="Hi, I'm Martyna!" src="art/header-light.png" width="100%">
+  <img alt=Aspiring game developer" src="art/header-light.png" width="100%">
 </picture>
 
 </p>
