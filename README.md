@@ -1,139 +1,135 @@
 <!-- 
 =======================================================================
   MARTYNA'S GITHUB PROFILE README
-  Theme: Pastel Pink, Kawaii, Fantasy Indie Game Dev
+  Theme: Minimalist, Professional, Pastel Pink Accents
   Colors: #E4A5C2, #F7D7E6, #F8BBD0
 =======================================================================
 -->
 
 <div align="center">
 
-<!-- EXISTING HEADER -->
+<!-- HEADER -->
 <picture>
-<source media="(prefers-color-scheme: dark)" srcset="art/header-dark.png"> 
+  <source media="(prefers-color-scheme: dark)" srcset="art/header-dark.png"> 
   <source media="(prefers-color-scheme: light)" srcset="art/header-light.png"> 
-  <img alt=Aspiring game developer" src="art/header-light.png" width="100%">
+  <img alt="Martyna - Aspiring Game Developer" src="art/header-light.png" width="100%">
 </picture>
 
 <br><br>
 
-<br><br>
+<!-- PROFILE HEADER -->
+<h1>Hi, I'm Martyna!</h1>
 
-<!-- PROFILE CARD -->
-<table align="center" style="border: none;">
+<table style="border: none; margin: 0 auto; width: 60%; background-color: transparent;">
   <tr style="border: none;">
-    <td align="center" style="border: none; padding: 20px;">
-      <h1>🌸 Hi, I'm Martyna!</h1>
-      <h3><i>The Architect of Worlds</i></h3>
-      <p style="font-size: 16px;">
-        🎮 Unity Developer &nbsp;•&nbsp; 🧙 Fantasy World Builder &nbsp;•&nbsp; 🐀 Feeling Like A Rat <br>
-        🌙 Night Coder &nbsp;•&nbsp; ☕ Coffee Powered
-      </p>
+    <td align="center" style="border: none; padding: 10px; font-size: 16px;">
+      <b>Unity Developer</b>
+    </td>
+    <td align="center" style="border: none; padding: 10px; font-size: 16px;">
+      <b>Systems Architect</b>
+    </td>
+    <td align="center" style="border: none; padding: 10px; font-size: 16px;">
+      <b>Gameplay Programmer</b>
     </td>
   </tr>
 </table>
 
-<br>
-<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="60%" style="filter: hue-rotate(290deg) saturate(150%) opacity(70%);">
-<br><br>
+<p style="font-size: 14px; color: gray;">
+  <i>Transforming complex architecture into immersive experiences.</i>
+</p>
 
-<!-- INTRODUCTION -->
-### ✨ About the Architect
+</div>
 
-I am an aspiring **Game Developer** with a passion for creating low-poly fantasy worlds, classic RPG mechanics, and immersive adventures. My primary domain is **Unity 6.5**, where I continuously refine my workflows and experiment with the latest engine features. 
+---
 
-I operate as the lead architect of my systems. AI assistants like **Claude** and **Claude Code** act as my contractors. I design the complex game architecture and narratives, while they help me implement the codebase faster. This synergy allows me to maintain absolute creative control while bringing my visions to life at the speed of thought.
+### 🌸 About Me
 
-<br><br>
-<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="60%" style="filter: hue-rotate(290deg) saturate(150%) opacity(70%);">
-<br><br>
+I am an aspiring **Game Developer** with a passion for building robust RPG mechanics, highly optimized systems, and immersive environments. My primary engine is **Unity 6.5**, where I continuously refine my workflows and experiment with the latest engine features. 
 
-<!-- CURRENT PROJECT (STEAM PAGE VIBE) -->
-### ⚔️ Wanderer's Tale ⚔️
-*A low poly fantasy 3D adventure made in Unity 6.5.*
+I operate as the lead architect of my projects. AI assistants like Claude act as my development partners—I design the complex game architecture, systems, and narratives, while they assist with rapid code implementation. This synergy allows me to maintain absolute creative control and focus on high-level system design.
 
-<table align="center" width="100%" style="border: none;">
+---
+
+### 💻 Current Project: Wanderer's Tale
+
+*A low-poly 3D adventure developed in Unity 6.5.*
+
+<table width="100%" style="border: none;">
   <tr style="border: none;">
-    <td width="50%" style="border: none; padding: 20px; vertical-align: top;">
-      <b>📖 The Legend:</b><br><br>
-      The story follows a fearless young woman gifted with magical powers and accompanied by her irreplaceable sword. She wanders across a beautifully crafted low-poly world helping people in need, discovering forgotten places, and uncovering mysteries while bringing hope wherever she travels.
+    <td width="50%" style="border: none; vertical-align: top; padding-right: 20px;">
+      <b>Project Overview</b><br><br>
+      A story-driven experience following a fearless young woman with magical abilities. She traverses a beautifully crafted low-poly world to assist those in need, uncovering forgotten mysteries and bringing hope to desolated regions.
     </td>
-    <td width="50%" style="border: none; padding: 20px; vertical-align: top;">
-      <b>⚙️ Current Focus:</b><br><br>
-      🗡️ Action-driven Combat Systems<br>
-      💬 Branching Dialogue Mechanics<br>
-      🌲 World Building & Atmosphere<br>
-      🚀 Unity 6.5 Technologies<br>
-      🤖 AI-assisted Workflows
+    <td width="50%" style="border: none; vertical-align: top; padding-left: 20px;">
+      <b>Current Development Focus</b><br>
+      <ul>
+        <li>Action-driven combat systems</li>
+        <li>Branching dialogue mechanics</li>
+        <li>Atmospheric world building</li>
+        <li>Advanced Unity 6.5 technologies</li>
+        <li>AI-assisted development pipelines</li>
+      </ul>
     </td>
   </tr>
 </table>
 
-<br><br>
-<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="60%" style="filter: hue-rotate(290deg) saturate(150%) opacity(70%);">
-<br><br>
+---
 
-<!-- TECH STACK & LEARNING -->
-<table align="center" width="100%" style="border: none;">
+### ⚙️ Tech Stack & Learning
+
+<table width="100%" style="border: none;">
   <tr style="border: none;">
-    <td width="50%" align="center" style="border: none; padding: 20px; vertical-align: top;">
-      <h3>🔮 My Spellbook (Stack)</h3>
-      <b>Game Dev & Programming</b><br>
+    <td width="50%" align="center" style="border: none; vertical-align: top;">
+      <b>Current Tech Stack</b><br><br>
       <a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=unity,cs,dotnet,cpp&theme=light" alt="Game Dev Stack"/></a><br><br>
-      <b>Art & Design</b><br>
       <a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=blender,ps,figma&theme=light" alt="Art Stack"/></a><br><br>
-      <b>Tools & Workflows</b><br>
       <a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=git,github,vscode,visualstudio&theme=light" alt="Tools Stack"/></a>
     </td>
-    <td width="50%" align="center" style="border: none; padding: 20px; vertical-align: top;">
-      <h3>🌱 Currently Learning</h3>
-      <div align="left" style="display: inline-block;">
-        <ul>
-          <li><b>Unity 6.5 Tools:</b> Shader Graph, VFX Graph, New Input System, UI Toolkit, & Terrain Tools</li>
-          <li><b>Architecture:</b> Scalable Systems & Patterns</li>
-          <li><b>Workflows:</b> AI-driven development</li>
-          <li><b>New Horizons:</b> Unreal Engine (Future)</li>
-        </ul>
-      </div>
+    <td width="50%" align="left" style="border: none; vertical-align: top; padding-left: 20px;">
+      <div align="center"><b>Currently Learning</b></div>
+      <ul>
+        <li><b>Unity 6.5 Tools:</b> Shader Graph, VFX Graph, New Input System, UI Toolkit, & Terrain Tools</li>
+        <li><b>Architecture:</b> Scalable Systems & Design Patterns</li>
+        <li><b>Workflows:</b> AI-driven development</li>
+        <li><b>New Horizons:</b> Unreal Engine</li>
+      </ul>
     </td>
   </tr>
 </table>
 
-<br><br>
-<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="60%" style="filter: hue-rotate(290deg) saturate(150%) opacity(70%);">
-<br><br>
+---
 
-<!-- ROADMAP & FUN FACTS -->
-<table align="center" width="100%" style="border: none;">
+### 🗺️ Development Roadmap
+
+<table width="100%" style="border: none;">
   <tr style="border: none;">
-    <td width="50%" align="left" style="border: none; padding: 20px; vertical-align: top; font-size: 15px;">
-      <h3 align="center">🗺 My Adventure</h3>
-      ✅ <b>Tutorial:</b> Learned C# Fundamentals <br><br>
-      ✅ <b>Mastery:</b> Internalized Unity Engine <br><br>
-      ✅ <b>Magic:</b> Tamed the GitHub <br><br>
-      🌱 <b>Current Quest:</b> Publishing <i>Wanderer's Tale</i> <br><br>
-      🔜 <b>Next Zone:</b> Exploring Unreal Engine <br><br>
-      ⭐ <b>Main Objective:</b> Steam Release <br><br>
-      💖 <b>Endgame:</b> Professional Game Developer
+    <td width="50%" align="left" style="border: none; vertical-align: top; padding-right: 20px;">
+      <b>Milestones</b>
+      <ul>
+        <li>✅ Core C# Fundamentals</li>
+        <li>✅ Unity Engine Mastery</li>
+        <li>✅ Git & Version Control</li>
+        <li>🌱 Developing <i>Wanderer's Tale</i></li>
+        <li>🔜 Unreal Engine Transition</li>
+        <li>⭐ Commercial Steam Release</li>
+      </ul>
     </td>
-    <td width="50%" align="left" style="border: none; padding: 20px; vertical-align: top; font-size: 15px;">
-      <h3 align="center">🌸 The Tavern (Fun Facts)</h3>
-      🐀 My spirit animal and studio mascot is a <b>Gray Rat</b>.<br><br>
-      🌸 <b>Pink</b> is my absolute favorite color.<br><br>
-      🌙 Most of my coding happens at night - I am a true <b>Night Coder</b>.<br><br>
-      ☕ <b>Coffee & Spotify</b> are always nearby when I'm developing.<br><br>
-      🎮 <b>Fantasy RPGs</b> are home, but I love trying every game genre.<br><br>
-      🚀 My ultimate dream is publishing my very own game on <b>Steam</b>.
+    <td width="50%" align="left" style="border: none; vertical-align: top; padding-left: 20px;">
+      <b>Personal Profile</b>
+      <ul>
+        <li>🌸 <b>Aesthetic:</b> Pastel pink minimalism</li>
+        <li>🌙 <b>Workflow:</b> Dedicated night coder</li>
+        <li>☕ <b>Fuel:</b> Coffee & constant Spotify playback</li>
+        <li>🎮 <b>Interests:</b> RPGs and deep system mechanics</li>
+        <li>🚀 <b>Goal:</b> Professional Indie Game Developer</li>
+      </ul>
     </td>
   </tr>
 </table>
 
-<br><br>
-<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="60%" style="filter: hue-rotate(290deg) saturate(150%) opacity(70%);">
-<br><br>
+---
 
-<!-- FAVOURITE GAMES -->
-### 🎲 Inspirations & favorite realms
+### 🎲 Inspirations
 
 <div align="center">
   <img src="https://img.shields.io/badge/Baldur's_Gate_3-E4A5C2?style=for-the-badge&logoColor=white" alt="BG3">
@@ -142,13 +138,11 @@ I operate as the lead architect of my systems. AI assistants like **Claude** and
   <img src="https://img.shields.io/badge/Red_Dead_Redemption_2-E4A5C2?style=for-the-badge&logoColor=white" alt="RDR2">
   <img src="https://img.shields.io/badge/A_Way_Out-F7D7E6?style=for-the-badge&logoColor=gray" alt="A Way Out">
   <img src="https://img.shields.io/badge/Paralives-F8BBD0?style=for-the-badge&logoColor=white" alt="Paralives">
-  <img src="https://img.shields.io/badge/Avowed-E4A5C2?style=for-the-badge&logoColor=white" alt="Avowed">
 </div>
 
-<br><br>
+---
 
-<!-- NOW PLAYING (SPOTIFY) -->
-### 🎧 What I listen to while working...
+### 🎧 Now Playing
 
 <div align="center">
   <a href="https://open.spotify.com/user/Bonwendura">
@@ -156,16 +150,10 @@ I operate as the lead architect of my systems. AI assistants like **Claude** and
   </a>
 </div>
 
-<br><br>
-<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="60%" style="filter: hue-rotate(290deg) saturate(150%) opacity(70%);">
-<br><br>
+---
 
-<!-- GITHUB STATS & ACTIVITY -->
-### 📊 Adventurer's Log
+### 📊 GitHub Analytics
 
-<br>
-
-<!-- Stats and Streak -->
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=MartynaM04&show_icons=true&bg_color=00000000&title_color=E4A5C2&text_color=d87a9f&icon_color=E4A5C2&hide_border=true&include_all_commits=true" alt="GitHub Stats" height="170px"/>
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=MartynaM04&theme=transparent&title_color=E4A5C2&text_color=d87a9f&icon_color=E4A5C2&date_format=j%20M%5B%20Y%5D&hide_border=true" alt="GitHub Streak" height="170px"/>
@@ -173,28 +161,24 @@ I operate as the lead architect of my systems. AI assistants like **Claude** and
 
 <br>
 
-<!-- WakaTime -->
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api/wakatime?username=1dccc52a-9fac-4abc-a43b-a4f3c7c35ddf&layout=compact&bg_color=00000000&title_color=E4A5C2&text_color=d87a9f&hide_border=true" alt="WakaTime Stats" />
 </div>
 
 <br>
 
-<!-- Trophies -->
 <div align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=MartynaM04&theme=dracula&no-bg=true&no-frame=true&text=E4A5C2&title=F8BBD0" alt="GitHub Trophies" />
 </div>
 
 <br>
 
-<!-- Activity Graph -->
 <div align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=MartynaM04&bg_color=00000000&color=E4A5C2&line=F8BBD0&point=E4A5C2&area=true&hide_border=true&title_color=E4A5C2" alt="Activity Graph" width="80%"/>
 </div>
 
 <br>
 
-<!-- Contribution Snake -->
 <div align="center">
   <h4>🐍 Contribution Snake</h4>
   <picture>
@@ -204,12 +188,9 @@ I operate as the lead architect of my systems. AI assistants like **Claude** and
   </picture>
 </div>
 
-<br><br>
-<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="60%" style="filter: hue-rotate(290deg) saturate(150%) opacity(70%);">
-<br><br>
+---
 
-<!-- CONTACT -->
-### 💌 You can find me here!
+### 💌 Contact
 
 <div align="center">
   <a href="https://instagram.com/programming.rat"><img src="https://img.shields.io/badge/Instagram-E4A5C2?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"></a>
@@ -221,16 +202,15 @@ I operate as the lead architect of my systems. AI assistants like **Claude** and
   <a href="https://ko-fi.com/MartynaM04"><img src="https://img.shields.io/badge/Buy_Me_A_Coffee-FFB3D9?style=for-the-badge&logo=ko-fi&logoColor=white" alt="Ko-fi"></a>
 </div>
 
-<br><br><br>
+<br><br>
 
 <!-- FOOTER -->
 <div align="center">
-  <p style="font-size: 16px; color: #E4A5C2; font-style: italic;">
-    "Don't you ever give up." ✨
+  <p style="font-size: 14px; color: gray;">
+    <i>"Don't you ever give up."</i> ✨
   </p>
   <br>
-  <!-- Kawaii Visitor Counter -->
-  <img src="https://komarev.com/ghpvc/?username=MartynaM04&label=Tavern%20Visitors&color=E4A5C2&style=flat-square" alt="Visitor Counter" />
+  <img src="https://komarev.com/ghpvc/?username=MartynaM04&label=Profile%20Views&color=E4A5C2&style=flat-square" alt="Visitor Counter" />
 </div>
 
 </div>
