@@ -151,9 +151,11 @@ I operate as the lead architect of my systems. AI assistants like **Claude** and
 <!-- NOW PLAYING (SPOTIFY) -->
 ### 🎧 Spotify (Now Playing)
 
-<a href="https://open.spotify.com/user/Bonwendura">
-  <img src="https://sb-3xd8yhkz5ekq.vercel.run/api/now-playing/api/view?cover_image=true&color=E4A5C2&background_color=121212" alt="Spotify Now Playing" width="400px"/>
-</a>
+<div align="center">
+  <a href="https://open.spotify.com/user/Bonwendura">
+    <img src="https://sb-3xd8yhkz5ekq.vercel.run/api/now-playing" alt="Spotify Now Playing" width="400px"/>
+  </a>
+</div>
 
 <br><br>
 <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="60%" style="filter: hue-rotate(290deg) saturate(150%) opacity(70%);">
@@ -174,7 +176,7 @@ I operate as the lead architect of my systems. AI assistants like **Claude** and
 
 <!-- WakaTime -->
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/wakatime?username=@1dccc52a-9fac-4abc-a43b-a4f3c7c35ddf&layout=compact&bg_color=00000000&title_color=E4A5C2&text_color=d87a9f&hide_border=true" alt="WakaTime Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/wakatime?username=1dccc52a-9fac-4abc-a43b-a4f3c7c35ddf&layout=compact&bg_color=00000000&title_color=E4A5C2&text_color=d87a9f&hide_border=true" alt="WakaTime Stats" />
 </div>
 
 <br>
