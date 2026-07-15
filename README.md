@@ -149,10 +149,10 @@ I operate as the lead architect of my systems. AI assistants like **Claude** and
 <br><br>
 
 <!-- NOW PLAYING (SPOTIFY) -->
-### 🎧 Tavern Ambience (Now Playing)
+### 🎧 Spotify (Now Playing)
 
 <a href="https://open.spotify.com/user/Bonwendura">
-  <img src="https://spotify-github-profile.vercel.app/api/view?uid=Bonwendura&cover_image=true&theme=novatorem&color=E4A5C2&background_color=121212" alt="Spotify Now Playing" width="400px"/>
+  <img src="https://sb-3xd8yhkz5ekq.vercel.run/api/now-playing/api/view?cover_image=true&color=E4A5C2&background_color=121212" alt="Spotify Now Playing" width="400px"/>
 </a>
 
 <br><br>
