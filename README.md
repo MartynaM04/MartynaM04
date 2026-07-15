@@ -104,7 +104,7 @@ I operate as the lead architect of my systems. AI assistants like **Claude** and
 <!-- ROADMAP & FUN FACTS (SIDE BY SIDE) -->
 <table align="center" width="90%" style="border: none;">
   <tr style="border: none;">
-    <td width="50%" align="left" style="border: none; padding: 0 20px;">
+    <td width="60%" align="left" style="border: none; padding: 0 20px;">
       <h3 align="center">🗺 My Adventure</h3>
       ✅ <b>Tutorial:</b> Learned C# Fundamentals<br>
       ✅ <b>Mastery:</b> Adopted Unity Realm<br>
@@ -115,7 +115,7 @@ I operate as the lead architect of my systems. AI assistants like **Claude** and
       ⭐ <b>Objective:</b> Steam Release<br>
       💖 <b>Endgame:</b> Pro Game Developer
     </td>
-    <td width="50%" align="left" style="border: none; padding: 0 20px;">
+    <td width="60%" align="left" style="border: none; padding: 0 20px;">
       <h3 align="center">🌸 The Tavern (Fun Facts)</h3>
       🐀 My spirit animal and mascot is a <b>Gray Rat</b>.<br>
       🌸 <b>Pink</b> is my absolute favorite color.<br>
