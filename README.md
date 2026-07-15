@@ -18,7 +18,7 @@
   <img alt="Martyna" src="art/header-light.png" width="100%">
 </picture>
 
-<br><br>
+<br>
 
 # Martyna
 
@@ -27,12 +27,20 @@
 **Unity Developer** &nbsp;—&nbsp; Fantasy RPGs &nbsp;—&nbsp; *currently building Wanderer's Tale*
 
 </div>
+<br>
 
-<br><br>
-<div align="center">✦</div>
-<br><br>
+<div align="center">
+  <img src="https://singlecolorimage.com/get/F7D7E6/400x4" alt="Divider" width="20%" />
+</div>
 
-### About
+<div align="center">
+    
+### About Me
+
+<div align="center">
+  <img src="https://singlecolorimage.com/get/F7D7E6/400x4" alt="Divider" width="20%" />
+</div>
+</br><br>
 
 I like building things that hold together — systems where every piece talks to every other piece the way it's supposed to. Most of my time goes into Unity, currently 6.5, working through problems that don't have one clean answer: combat that feels good, dialogue that remembers what you said, quests that don't fall apart the moment a player does something unexpected.
 
@@ -40,17 +48,21 @@ Fantasy worlds are just where my head goes naturally, so that's the kind of thin
 
 I design the architecture myself. Every system and every decision about how things fit together is mine to make. Claude and Claude Code help me move from idea to implementation faster, but the direction — and the responsibility for what ships — stays with me.
 
-<br><br>
-<div align="center">✦</div>
-<br><br>
+<br>
 
 <div align="center">
+  <img src="https://singlecolorimage.com/get/F7D7E6/400x4" alt="Divider" width="20%" />
+</div>
 
+<div align="center">
+    
 ### Currently Building
 
-<img src="https://img.shields.io/badge/In_Development-E4A5C2?style=flat-square" alt="in development">
+<div align="center">
+  <img src="https://singlecolorimage.com/get/F7D7E6/400x4" alt="Divider" width="20%" />
+</div>
 
-## Wanderer's Tale
+### Wanderer's Tale
 *A low-poly fantasy adventure.*
 
 </div>
@@ -68,37 +80,36 @@ A fearless young woman, gifted with magic and never without her sword, wanders a
 
 </div>
 
-<br><br>
-<div align="center">✦</div>
-<br><br>
+<br>
 
 <div align="center">
+  <img src="https://singlecolorimage.com/get/F7D7E6/400x4" alt="Divider" width="20%" />
+</div>
 
+<div align="center">
+    
 ### Tech Stack
+
+<div align="center">
+  <img src="https://singlecolorimage.com/get/F7D7E6/400x4" alt="Divider" width="20%" />
+</div>
+<br><br>
 
 **Game Development**
 <br>
 <img src="https://skillicons.dev/icons?i=unity&theme=light" alt="Unity" />
 
-<br><br>
-
 **Programming**
 <br>
 <img src="https://skillicons.dev/icons?i=cs,cpp,dotnet&theme=light" alt="Programming" />
-
-<br><br>
 
 **Tools**
 <br>
 <img src="https://skillicons.dev/icons?i=git,github,vscode,visualstudio&theme=light" alt="Tools" />
 
-<br><br>
-
 **Art**
 <br>
 <img src="https://skillicons.dev/icons?i=blender,ps,figma&theme=light" alt="Art" />
-
-<br><br>
 
 **AI**
 <br>
@@ -106,14 +117,20 @@ A fearless young woman, gifted with magic and never without her sword, wanders a
 <img src="https://img.shields.io/badge/Claude_Code-E4A5C2?style=flat-square" alt="">
 
 </div>
-
-<br><br>
-<div align="center">✦</div>
-<br><br>
+<br>
 
 <div align="center">
+  <img src="https://singlecolorimage.com/get/F7D7E6/400x4" alt="Divider" width="20%" />
+</div>
 
-### Currently Learning
+<div align="center">
+    
+### Learning Now
+
+<div align="center">
+  <img src="https://singlecolorimage.com/get/F7D7E6/400x4" alt="Divider" width="20%" />
+</div>
+<br><br>
 
 <img src="https://img.shields.io/badge/Unity_6.5-F8BBD0?style=flat-square" alt="">
 <img src="https://img.shields.io/badge/Shader_Graph-F8BBD0?style=flat-square" alt="">
@@ -123,11 +140,18 @@ A fearless young woman, gifted with magic and never without her sword, wanders a
 
 </div>
 
-<br><br>
-<div align="center">✦</div>
-<br><br>
+<div align="center">
+  <img src="https://singlecolorimage.com/get/F7D7E6/400x4" alt="Divider" width="20%" />
+</div>
 
+<div align="center">
+    
 ### Favourite Games
+
+<div align="center">
+  <img src="https://singlecolorimage.com/get/F7D7E6/400x4" alt="Divider" width="20%" />
+</div>
+<br><br>
 
 <img src="https://img.shields.io/badge/Baldur's_Gate_3-F8BBD0?style=flat-square" alt="">
 <img src="https://img.shields.io/badge/Dragon_Age-F8BBD0?style=flat-square" alt="">
@@ -137,19 +161,19 @@ A fearless young woman, gifted with magic and never without her sword, wanders a
 <img src="https://img.shields.io/badge/A_Way_Out-F8BBD0?style=flat-square" alt="">
 <img src="https://img.shields.io/badge/Red_Dead_Redemption_2-F8BBD0?style=flat-square" alt="">
 
-— Baldur's Gate 3
-— Dragon Age
-— Divinity: Original Sin
-— Avowed
-— Paralives
-— A Way Out
-— Red Dead Redemption 2
-
 <br><br>
-<div align="center">✦</div>
-<br><br>
+<div align="center">
+  <img src="https://singlecolorimage.com/get/F7D7E6/400x4" alt="Divider" width="20%" />
+</div>
 
-### Fun Facts
+<div align="center">
+    
+### My Facts
+
+<div align="center">
+  <img src="https://singlecolorimage.com/get/F7D7E6/400x4" alt="Divider" width="20%" />
+</div>
+<br><br>
 
 🐀 My mascot is a gray rat.
 🌸 Pink is my favourite colour.
@@ -159,12 +183,18 @@ A fearless young woman, gifted with magic and never without her sword, wanders a
 🚀 My dream is publishing my own game on Steam.
 
 <br><br>
-<div align="center">✦</div>
-<br><br>
+<div align="center">
+  <img src="https://singlecolorimage.com/get/F7D7E6/400x4" alt="Divider" width="20%" />
+</div>
 
 <div align="center">
+    
+### Listening to...
 
-### Now Playing
+<div align="center">
+  <img src="https://singlecolorimage.com/get/F7D7E6/400x4" alt="Divider" width="20%" />
+</div>
+<br><br>
 
 <a href="https://open.spotify.com/user/Bonwendura">
   <img src="https://sb-3xd8yhkz5ekq.vercel.run/api/now-playing" alt="Spotify Now Playing" width="380px"/>
@@ -172,28 +202,19 @@ A fearless young woman, gifted with magic and never without her sword, wanders a
 
 </div>
 
-<br>
-
-<details>
-<summary align="center"><b>How this widget is configured</b></summary>
-<br>
-
-This uses a self-hosted Spotify now-playing widget (built on the Spotify Web API), deployed to Vercel:
-
-1. Create a Spotify app at [developer.spotify.com](https://developer.spotify.com/dashboard) to get a client ID and secret.
-2. Generate a refresh token for your account using the app's authorization flow.
-3. Deploy a widget project such as `novatorem/spotify-github-profile` to Vercel, setting `SPOTIFY_CLIENT_ID`, `SPOTIFY_CLIENT_SECRET`, and `SPOTIFY_REFRESH_TOKEN` as environment variables.
-4. Point the `<img>` above at your deployed endpoint's `/api/now-playing` route.
-
-</details>
-
 <br><br>
-<div align="center">✦</div>
-<br><br>
+<div align="center">
+  <img src="https://singlecolorimage.com/get/F7D7E6/400x4" alt="Divider" width="20%" />
+</div>
 
 <div align="center">
-
+    
 ### GitHub Analytics
+
+<div align="center">
+  <img src="https://singlecolorimage.com/get/F7D7E6/400x4" alt="Divider" width="20%" />
+</div>
+<br>
 
 <img src="https://github-readme-stats.vercel.app/api?username=MartynaM04&show_icons=true&bg_color=00000000&title_color=E4A5C2&text_color=E4A5C2&icon_color=E4A5C2&hide_border=true&include_all_commits=true&height=170" alt="GitHub Stats" height="170px"/>
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=MartynaM04&theme=transparent&background=00000000&ring=E4A5C2&fire=E4A5C2&currStreakNum=E4A5C2&currStreakLabel=E4A5C2&sideNums=E4A5C2&sideLabels=E4A5C2&dates=F8BBD0&hide_border=true" alt="GitHub Streak" height="170px"/>
