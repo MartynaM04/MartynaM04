@@ -22,9 +22,9 @@
   <tr style="border: none;">
     <td align="center" style="border: none; padding: 20px;">
       <h1>Hi, I'm Martyna</h1>
-      <img src="https://readme-typing-svg.demolab.com/?font=Poppins&size=20&duration=3000&pause=1200&color=E4A5C2&center=true&vCenter=true&width=460&height=40&lines=Unity+Game+Developer;Crafting+Wanderer%27s+Tale;Systems+-+Combat+-+Worldbuilding" alt="typing tagline" />
+      <img src="https://readme-typing-svg.demolab.com/?font=Poppins&size=20&duration=3000&pause=1200&color=E4A5C2&center=true&vCenter=true&width=460&height=40&lines=Unity+Game+Developer;Crafting+LowPoly+Games;Systems+-+Combat+-+Worldbuilding" alt="typing tagline" />
       <p style="font-size: 16px;">
-        &nbsp;•&nbsp; Unity Developer &nbsp;•&nbsp; World Builder &nbsp;•&nbsp; Big Dreamer &nbsp;•&nbsp; 
+        &nbsp;•&nbsp; Storyteller &nbsp;•&nbsp; World Builder &nbsp;•&nbsp; Big Dreamer &nbsp;•&nbsp; 
         <br><br>
       </p>
     </td>
