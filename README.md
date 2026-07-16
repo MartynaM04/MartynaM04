@@ -117,6 +117,7 @@ They write the code faster than I can, but I'm the one calling the shots.<br>
       <b>&nbsp;•&nbsp; </b> Shader & VFX Graph <br>
       <b>&nbsp;•&nbsp; </b> New Input System <br>
       <b>&nbsp;•&nbsp; </b> ProBuilder <br>
+      <b>&nbsp;•&nbsp; </b> Cinemachine <br>
       <b>&nbsp;•&nbsp; </b> Terrain Tool <br><br>
       <b> OTHER </b><br>
       <b>&nbsp;•&nbsp; </b> HTML <br>
