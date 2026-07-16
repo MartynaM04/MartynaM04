@@ -97,7 +97,7 @@ They write the code faster than I can, but I'm the one calling the shots.<br>
     <img src="https://skillicons.dev/icons?i=unity,cs,dotnet,html&theme=light" alt="Game Dev Stack"/>
 <br><br>
       <b>Art & Design</b><br>
-      <a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=blender&theme=light" alt="Art Stack"/></a><br><br>
+      <a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=blender,capcut&theme=light" alt="Art Stack"/></a><br><br>
       <b>Tools & Workflows</b><br>
       <a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=git,github,powershell,visualstudio&theme=light" alt="Tools Stack"/></a>
 
@@ -137,6 +137,9 @@ They write the code faster than I can, but I'm the one calling the shots.<br>
       &nbsp;•&nbsp; I can sing two Polish "cringe" songs in my sleep.<br>
       &nbsp;•&nbsp; A writer with too many ideas to finish a book.<br>
       &nbsp;•&nbsp; Learned HTML at 13 by running a fanfic blog.<br>
+      &nbsp;•&nbsp; Learned GIMP by making templates for my blog.<br>
+      &nbsp;•&nbsp; I've owned two RP servers on Discord. I created one in one day and it was quite successful.<br>
+      &nbsp;•&nbsp; I love making edits in CapCut, the first ones I made were for my OCs.<br>
       &nbsp;•&nbsp; I have three cats from a shelter.<br><br>
       <img src="https://upload.wikimedia.org/wikipedia/commons/c/ce/Transparent.gif" width="400" height="1" />
       <br>
