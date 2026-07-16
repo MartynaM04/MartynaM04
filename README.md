@@ -38,9 +38,9 @@
 <!-- INTRODUCTION -->
 ### About Me 
 
-I am an aspiring **Game Developer** with a passion for weaving low-poly fantasy worlds, robust RPG mechanics, and immersive adventures. My primary domain is **Unity 6.5**, where I continuously refine my workflows and experiment with the latest engine features. 
+I'm an aspiring **Game Developer** obsessed with low-poly fantasy worlds and deep RPG mechanics. Currently living inside **Unity 6.5** and constantly messing with new features.
 
-I operate as the lead architect of my systems. AI assistants like **Claude** and **Claude Code** act as my contractors—I design the intricate game architecture and narratives, while they help me implement the codebase faster. This synergy allows me to maintain absolute creative control while bringing my visions to life at the speed of thought.
+I act as the lead architect of my games. I design the systems, build the lore, and make the rules. AI assistants like **Claude** and **Claude Code** are my contractors. They write the code faster than I can, but I'm the one calling the shots.
 
 <br><br>
   <img src="https://singlecolorimage.com/get/F7D7E6/400x3" alt="Divider" width="60%" />
