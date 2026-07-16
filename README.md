@@ -1,253 +1,215 @@
-<!--
-  Quick notes for Martyna (this comment is invisible on GitHub):
-  - Banner: keep art/header-light.png + art/header-dark.png in your repo root,
-    or swap the <picture> source paths below to wherever you store them.
-  - GitHub-flavoured Markdown strips the `style` attribute entirely, so this
-    file is built without any inline CSS — every visual effect below comes
-    from `align`, image widths, and colour-parameterised image services
-    (shields.io, github-readme-stats, readme-typing-svg). This is why it's
-    safe across light/dark mode and won't render with stray table borders.
-  - Palette used everywhere: #E4A5C2 · #F7D7E6 · #F8BBD0 · #FFF7FA
+<!-- 
+=======================================================================
+  MARTYNA'S GITHUB PROFILE README
+  Theme: Pastel Pink, Kawaii, Fantasy Indie Game Dev
+  Colors: #E4A5C2, #F7D7E6, #F8BBD0
+=======================================================================
 -->
 
 <div align="center">
 
+<!-- EXISTING HEADER -->
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="art/header-dark.png">
-  <source media="(prefers-color-scheme: light)" srcset="art/header-light.png">
-  <img alt="Martyna" src="art/header-light.png" width="100%">
+  <source media="(prefers-color-scheme: dark)" srcset="art/header-dark.png"> 
+  <source media="(prefers-color-scheme: light)" srcset="art/header-light.png"> 
+  <img alt="Aspiring game developer" src="art/header-light.png" width="100%">
 </picture>
 
-<br>
-
-# Martyna
-
-<img src="https://readme-typing-svg.demolab.com/?font=Poppins&size=20&duration=3000&pause=1200&color=E4A5C2&center=true&vCenter=true&width=460&height=40&lines=Unity+Game+Developer;Crafting+Wanderer%27s+Tale;Systems+-+Combat+-+Worldbuilding" alt="typing tagline" />
-
-**Unity Developer** &nbsp;—&nbsp; Fantasy RPGs &nbsp;—&nbsp; *currently building Wanderer's Tale*
-
-</div>
-<br>
-
-<div align="center">
-  <img src="https://singlecolorimage.com/get/F7D7E6/400x4" alt="Divider" width="20%" />
-</div>
-
-<div align="center">
-    
-### About Me
-
-<div align="center">
-  <img src="https://singlecolorimage.com/get/F7D7E6/400x4" alt="Divider" width="20%" />
-</div>
-</br><br>
-
-I like building things that hold together — systems where every piece talks to every other piece the way it's supposed to. Most of my time goes into Unity, currently 6.5, working through problems that don't have one clean answer: combat that feels good, dialogue that remembers what you said, quests that don't fall apart the moment a player does something unexpected.
-
-Fantasy worlds are just where my head goes naturally, so that's the kind of thing I keep making. I'm always picking up something new — a Unity feature I haven't touched yet, an architecture pattern worth trying.
-
-I design the architecture myself. Every system and every decision about how things fit together is mine to make. Claude and Claude Code help me move from idea to implementation faster, but the direction — and the responsibility for what ships — stays with me.
-
-<br>
-
-<div align="center">
-  <img src="https://singlecolorimage.com/get/F7D7E6/400x4" alt="Divider" width="20%" />
-</div>
-
-<div align="center">
-    
-### Currently Building
-
-<div align="center">
-  <img src="https://singlecolorimage.com/get/F7D7E6/400x4" alt="Divider" width="20%" />
-</div>
-
-### Wanderer's Tale
-*A low-poly fantasy adventure.*
-
-</div>
-
-A fearless young woman, gifted with magic and never without her sword, wanders a low-poly world helping the people she meets along the way — chasing down old mysteries and the places everyone else forgot about.
-
-<div align="center">
-
-<img src="https://img.shields.io/badge/Gameplay_Systems-E4A5C2?style=flat-square" alt="">
-<img src="https://img.shields.io/badge/Combat-E4A5C2?style=flat-square" alt="">
-<img src="https://img.shields.io/badge/Dialogue-E4A5C2?style=flat-square" alt="">
-<img src="https://img.shields.io/badge/Architecture-E4A5C2?style=flat-square" alt="">
-<img src="https://img.shields.io/badge/World_Building-E4A5C2?style=flat-square" alt="">
-<img src="https://img.shields.io/badge/Unity_6.5_Tech-E4A5C2?style=flat-square" alt="">
-
-</div>
-
-<br>
-
-<div align="center">
-  <img src="https://singlecolorimage.com/get/F7D7E6/400x4" alt="Divider" width="20%" />
-</div>
-
-<div align="center">
-    
-### Tech Stack
-
-<div align="center">
-  <img src="https://singlecolorimage.com/get/F7D7E6/400x4" alt="Divider" width="20%" />
-</div>
 <br><br>
 
-**Game Development**
-<br>
-<img src="https://skillicons.dev/icons?i=unity&theme=light" alt="Unity" />
-
-**Programming**
-<br>
-<img src="https://skillicons.dev/icons?i=cs,cpp,dotnet&theme=light" alt="Programming" />
-
-**Tools**
-<br>
-<img src="https://skillicons.dev/icons?i=git,github,vscode,visualstudio&theme=light" alt="Tools" />
-
-**Art**
-<br>
-<img src="https://skillicons.dev/icons?i=blender,ps,figma&theme=light" alt="Art" />
-
-**AI**
-<br>
-<img src="https://img.shields.io/badge/Claude-E4A5C2?style=flat-square" alt="">
-<img src="https://img.shields.io/badge/Claude_Code-E4A5C2?style=flat-square" alt="">
-
-</div>
-<br>
-
-<div align="center">
-  <img src="https://singlecolorimage.com/get/F7D7E6/400x4" alt="Divider" width="20%" />
-</div>
-
-<div align="center">
-    
-### Learning Now
-
-<div align="center">
-  <img src="https://singlecolorimage.com/get/F7D7E6/400x4" alt="Divider" width="20%" />
-</div>
-<br><br>
-
-<img src="https://img.shields.io/badge/Unity_6.5-F8BBD0?style=flat-square" alt="">
-<img src="https://img.shields.io/badge/Shader_Graph-F8BBD0?style=flat-square" alt="">
-<img src="https://img.shields.io/badge/Game_Architecture-F8BBD0?style=flat-square" alt="">
-<img src="https://img.shields.io/badge/AI_Workflows-F8BBD0?style=flat-square" alt="">
-<img src="https://img.shields.io/badge/Unreal_Engine-F8BBD0?style=flat-square" alt="">
-
-</div>
-
-<div align="center">
-  <img src="https://singlecolorimage.com/get/F7D7E6/400x4" alt="Divider" width="20%" />
-</div>
-
-<div align="center">
-    
-### Favourite Games
-
-<div align="center">
-  <img src="https://singlecolorimage.com/get/F7D7E6/400x4" alt="Divider" width="20%" />
-</div>
-<br><br>
-
-<img src="https://img.shields.io/badge/Baldur's_Gate_3-F8BBD0?style=flat-square" alt="">
-<img src="https://img.shields.io/badge/Dragon_Age-F8BBD0?style=flat-square" alt="">
-<img src="https://img.shields.io/badge/Divinity:_Original_Sin-F8BBD0?style=flat-square" alt="">
-<img src="https://img.shields.io/badge/Avowed-F8BBD0?style=flat-square" alt="">
-<img src="https://img.shields.io/badge/Paralives-F8BBD0?style=flat-square" alt="">
-<img src="https://img.shields.io/badge/A_Way_Out-F8BBD0?style=flat-square" alt="">
-<img src="https://img.shields.io/badge/Red_Dead_Redemption_2-F8BBD0?style=flat-square" alt="">
+<!-- PROFILE CARD -->
+<table align="center" style="border: none;">
+  <tr style="border: none;">
+    <td align="center" style="border: none; padding: 20px;">
+      <h1>Hi, I'm Martyna</h1>
+      <img src="https://readme-typing-svg.demolab.com/?font=Poppins&size=20&duration=3000&pause=1200&color=E4A5C2&center=true&vCenter=true&width=460&height=40&lines=Unity+Game+Developer;Crafting+Wanderer%27s+Tale;Systems+-+Combat+-+Worldbuilding" alt="typing tagline" />
+      <p style="font-size: 16px;">
+        &nbsp;•&nbsp; Unity Developer &nbsp;•&nbsp; Fantasy World Builder &nbsp;•&nbsp;
+        <br><br>
+      </p>
+    </td>
+  </tr>
+</table>
 
 <br><br>
-<div align="center">
-  <img src="https://singlecolorimage.com/get/F7D7E6/400x4" alt="Divider" width="20%" />
-</div>
-
-<div align="center">
-    
-### My Facts
-
-<div align="center">
-  <img src="https://singlecolorimage.com/get/F7D7E6/400x4" alt="Divider" width="20%" />
-</div>
+  <img src="https://singlecolorimage.com/get/F7D7E6/400x3" alt="Divider" width="60%" />
 <br><br>
 
-🐀 My mascot is a gray rat.
-🌸 Pink is my favourite colour.
-🌙 I write most of my code at night.
-🎧 Spotify is almost always playing while I work.
-🎮 Fantasy RPGs are home, but I enjoy exploring every genre.
-🚀 My dream is publishing my own game on Steam.
+<!-- INTRODUCTION -->
+### About Me 
+
+I am an aspiring **Game Developer** with a passion for weaving low-poly fantasy worlds, robust RPG mechanics, and immersive adventures. My primary domain is **Unity 6.5**, where I continuously refine my workflows and experiment with the latest engine features. 
+
+I operate as the lead architect of my systems. AI assistants like **Claude** and **Claude Code** act as my contractors—I design the intricate game architecture and narratives, while they help me implement the codebase faster. This synergy allows me to maintain absolute creative control while bringing my visions to life at the speed of thought.
 
 <br><br>
-<div align="center">
-  <img src="https://singlecolorimage.com/get/F7D7E6/400x4" alt="Divider" width="20%" />
-</div>
-
-<div align="center">
-    
-### Listening to...
-
-<div align="center">
-  <img src="https://singlecolorimage.com/get/F7D7E6/400x4" alt="Divider" width="20%" />
-</div>
+  <img src="https://singlecolorimage.com/get/F7D7E6/400x3" alt="Divider" width="60%" />
 <br><br>
 
+<!-- CURRENT PROJECT (STEAM PAGE VIBE) -->
+### WORKING ON...
+## Wanderer's Tale
+*A low poly fantasy 3D adventure made in Unity 6.5.*
+
+<table align="center" width="80%" style="border: none;">
+  <tr style="border: none;">
+    <td width="50%" style="border: none; padding: 20px; vertical-align: middle;">
+      <b>The Legend:</b><br><br>
+      The story follows a fearless young woman gifted with magical powers and accompanied by her irreplaceable sword. She wanders across a beautifully crafted low-poly world helping people in need, discovering forgotten places, and uncovering mysteries while bringing hope wherever she travels.
+      <br>
+    </td>
+    <td width="50%" style="border: none; padding: 20px; vertical-align: middle;">
+      <b>Current Focus:</b><br><br>
+      &nbsp;•&nbsp; Action-driven Combat Systems<br>
+      &nbsp;•&nbsp; Branching Dialogue Mechanics<br>
+      &nbsp;•&nbsp; World Building & Atmosphere<br>
+      &nbsp;•&nbsp; Unity 6.5 Technologies<br>
+      &nbsp;•&nbsp; AI-assisted Workflows<br>
+      <br>
+    </td>
+  </tr>
+</table>
+
+<br><br>
+  <img src="https://singlecolorimage.com/get/F7D7E6/400x3" alt="Divider" width="60%" />
+<br><br>
+
+<!-- TECH STACK & LEARNING -->
+### My Stack
+<b>Game Dev & Programming</b>
+<br>
+    <img src="https://skillicons.dev/icons?i=unity,cs,dotnet,cpp&theme=light" alt="Game Dev Stack"/>
+<br><br>
+      <b>Art & Design</b><br>
+      <a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=blender,ps,figma&theme=light" alt="Art Stack"/></a><br><br>
+      <b>Tools & Workflows</b><br>
+      <a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=git,github,vscode,visualstudio&theme=light" alt="Tools Stack"/></a>
+
+<br><br>
+  <img src="https://singlecolorimage.com/get/F7D7E6/400x3" alt="Divider" width="60%" />
+<br><br>
+
+<!-- ROADMAP & FUN FACTS -->
+
+<table align="center" width="100%" style="border: none;">
+  <tr style="border: none;">
+    <td width="35%" style="border: none; padding: 20px; vertical-align: middle;">
+      <b>Currently Learning:</b><br><br>
+      <b> UNITY 6.5 </b><br>
+      <b>&nbsp;•&nbsp; </b> Shader & VFX Graph <br>
+      <b>&nbsp;•&nbsp; </b> New Input System <br>
+      <b>&nbsp;•&nbsp; </b> ProBuilder <br>
+      <b>&nbsp;•&nbsp; </b> Terrain Tool <br><br>
+      <b> OTHER </b><br>
+      <b>&nbsp;•&nbsp; </b> HTML <br>
+      <b>&nbsp;•&nbsp; </b> GitHub Navigation <br>
+      <b>&nbsp;•&nbsp; </b> Advanced AI Workflows <br>
+      <b>&nbsp;•&nbsp; </b> LLM Orchestration <br>
+      <br>
+    </td>
+    <td width="65%" style="border: none; padding: 20px; vertical-align: middle;">
+      <b>Facts About Me:</b><br><br>
+      &nbsp;•&nbsp; Terrified of stinging insects.<br>
+      &nbsp;•&nbsp; A clueless but enthusiastic football fan.<br>
+      &nbsp;•&nbsp; I have one signature joke I tell everyone.<br>
+      &nbsp;•&nbsp; I can sing two Polish "cringe" songs in my sleep.<br>
+      &nbsp;•&nbsp; A writer with too many ideas to finish a book.<br>
+      &nbsp;•&nbsp; Learned HTML at 13 by running a fanfic blog.<br><br>
+      <br>
+    </td>
+  </tr>
+</table>
+
+<br><br>
+  <img src="https://singlecolorimage.com/get/F7D7E6/400x3" alt="Divider" width="60%" />
+<br><br>
+
+<!-- FAVOURITE GAMES -->
+### Inspirations & Favorite Realms
+
+<div align="center">
+  <br>
+  <img src="https://img.shields.io/badge/Baldur's_Gate_3-E4A5C2?style=for-the-badge&logoColor=white" alt="BG3">
+  <img src="https://img.shields.io/badge/Dragon_Age-F7D7E6?style=for-the-badge&logoColor=gray" alt="Dragon Age">
+  <img src="https://img.shields.io/badge/Divinity:_Original_Sin-F8BBD0?style=for-the-badge&logoColor=white" alt="DOS">
+  <img src="https://img.shields.io/badge/Red_Dead_Redemption_2-E4A5C2?style=for-the-badge&logoColor=white" alt="RDR2">
+  <img src="https://img.shields.io/badge/A_Way_Out-F7D7E6?style=for-the-badge&logoColor=gray" alt="A Way Out">
+  <img src="https://img.shields.io/badge/Paralives-F8BBD0?style=for-the-badge&logoColor=white" alt="Paralives">
+  <img src="https://img.shields.io/badge/Avowed-E4A5C2?style=for-the-badge&logoColor=white" alt="Avowed">
+</div>
+
+<br><br>
+
+<!-- NOW PLAYING (SPOTIFY) -->
+### Listening To...
+<br>
 <a href="https://open.spotify.com/user/Bonwendura">
-  <img src="https://sb-3xd8yhkz5ekq.vercel.run/api/now-playing" alt="Spotify Now Playing" width="380px"/>
+  <img src="https://sb-3xd8yhkz5ekq.vercel.run/api/now-playing" color=E4A5C2 background_color=121212 alt="Spotify Now Playing" width="400px"/>
 </a>
 
-</div>
-
 <br><br>
-<div align="center">
-  <img src="https://singlecolorimage.com/get/F7D7E6/400x4" alt="Divider" width="20%" />
-</div>
+  <img src="https://singlecolorimage.com/get/F7D7E6/400x3" alt="Divider" width="60%" />
+<br><br>
 
-<div align="center">
-    
-### GitHub Analytics
+<!-- GITHUB STATS & ACTIVITY -->
+### Special Analytics
 
-<div align="center">
-  <img src="https://singlecolorimage.com/get/F7D7E6/400x4" alt="Divider" width="20%" />
-</div>
 <br>
 
-<img src="https://github-readme-stats.vercel.app/api?username=MartynaM04&show_icons=true&bg_color=00000000&title_color=E4A5C2&text_color=E4A5C2&icon_color=E4A5C2&hide_border=true&include_all_commits=true&height=170" alt="GitHub Stats" height="170px"/>
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=MartynaM04&theme=transparent&background=00000000&ring=E4A5C2&fire=E4A5C2&currStreakNum=E4A5C2&currStreakLabel=E4A5C2&sideNums=E4A5C2&sideLabels=E4A5C2&dates=F8BBD0&hide_border=true" alt="GitHub Streak" height="170px"/>
+<div align="center">
+  <a href="https://github.com/MartynaM04">
+    <img src="https://github-readme-stats.vercel.app/api?username=MartynaM04&show_icons=true&bg_color=00000000&title_color=E4A5C2&text_color=E4A5C2&icon_color=E4A5C2&hide_border=true&include_all_commits=true&height=170" alt="GitHub Stats" height="170px"/>
+  </a>
+  <a href="https://github.com/MartynaM04">
+    <img src="https://github-readme-streak-stats.herokuapp.com/ user=MartynaM04&theme=transparent&background=00000000&ring=E4A5C2&fire=E4A5C2&currStreakNum=E4A5C2&currStreakLabel=E4A5C2&sideNums=E4A5C2&sideLabels=E4A5C2&dates=F8BBD0&hide_border=true" alt="GitHub Streak" height="170px"/>    
+  </a>
+</div>
 
-<br><br>
+<br>
 
+<!-- Activity Graph -->
+<div align="center">
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=MartynaM04&bg_color=00000000&color=E4A5C2&line=E4A5C2&point=F8BBD0&area=true&hide_border=true&title_color=E4A5C2" alt="Activity Graph" width="90%"/>
 
-<br><br>
+<br>
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/MartynaM04/MartynaM04/output/github-contribution-grid-snake-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/MartynaM04/MartynaM04/output/github-contribution-grid-snake.svg">
-  <img alt="contribution snake" src="https://raw.githubusercontent.com/MartynaM04/MartynaM04/output/github-contribution-grid-snake.svg" width="90%">
-</picture>
-
+<!-- Contribution Snake -->
+<div align="center">
+  <h4>Contribution Snake</h4>
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/MartynaM04/MartynaM04/output/github-contribution-grid-snake-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/MartynaM04/MartynaM04/output/github-contribution-grid-snake.svg">
+    <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/MartynaM04/MartynaM04/output/github-contribution-grid-snake.svg" width="80%">
+  </picture>
 </div>
 
 <br><br>
-<div align="center">✦</div>
+  <img src="https://singlecolorimage.com/get/F7D7E6/400x3" alt="Divider" width="60%" />
 <br><br>
 
+<!-- CONTACT -->
+### 🌸 Find Me Here
+
 <div align="center">
-
-### Contact
-
-<a href="https://instagram.com/programming.rat"><img src="https://img.shields.io/badge/Instagram-E4A5C2?style=flat-square&logo=instagram&logoColor=FFF7FA" alt="Instagram"></a>
-<a href="https://tiktok.com/@greyhighrat"><img src="https://img.shields.io/badge/TikTok-E4A5C2?style=flat-square&logo=tiktok&logoColor=FFF7FA" alt="TikTok"></a>
-<a href="https://twitch.tv/szczurnawysokosci"><img src="https://img.shields.io/badge/Twitch-E4A5C2?style=flat-square&logo=twitch&logoColor=FFF7FA" alt="Twitch"></a>
-<a href="mailto:martynamilic08@gmail.com"><img src="https://img.shields.io/badge/Email-E4A5C2?style=flat-square&logo=gmail&logoColor=FFF7FA" alt="Email"></a>
+  <a href="https://instagram.com/programming.rat"><img src="https://img.shields.io/badge/Instagram-E4A5C2?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"></a>
+  <a href="https://tiktok.com/@greyhighrat"><img src="https://img.shields.io/badge/TikTok-F7D7E6?style=for-the-badge&logo=tiktok&logoColor=gray" alt="TikTok"></a>
+  <a href="https://twitch.tv/szczurnawysokosci"><img src="https://img.shields.io/badge/Twitch-F8BBD0?style=for-the-badge&logo=twitch&logoColor=white" alt="Twitch"></a>
+  <a href="mailto:martynamilic08@gmail.com"><img src="https://img.shields.io/badge/Email-E4A5C2?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"></a>
+  <br><br>
+  <!-- Ko-fi Button -->
+  <a href="https://ko-fi.com/MartynaM04"><img src="https://img.shields.io/badge/Buy_Me_A_Coffee-FFB3D9?style=for-the-badge&logo=ko-fi&logoColor=white" alt="Ko-fi"></a>
+</div>
 
 <br><br><br>
 
-*Building worlds, one system at a time.* 🐀
+<!-- FOOTER -->
+<div align="center">
+  <p style="font-size: 16px; color: #E4A5C2; font-style: italic;">
+    *Building worlds, one system at a time.* 🐀
+  </p>
+  <br>
+  <!-- Kawaii Visitor Counter -->
+  <img src="https://komarev.com/ghpvc/?username=MartynaM04&label=Tavern%20Visitors&color=E4A5C2&style=flat-square" alt="Visitor Counter" />
+</div>
 
 </div>
