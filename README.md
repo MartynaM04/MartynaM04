@@ -137,6 +137,7 @@ They write the code faster than I can, but I'm the one calling the shots.<br>
       &nbsp;•&nbsp; I can sing two Polish "cringe" songs in my sleep.<br>
       &nbsp;•&nbsp; A writer with too many ideas to finish a book.<br>
       &nbsp;•&nbsp; Learned HTML at 13 by running a fanfic blog.<br><br>
+      &nbsp;•&nbsp; I have three cats from shelter.<br><br>
       <img src="https://upload.wikimedia.org/wikipedia/commons/c/ce/Transparent.gif" width="400" height="1" />
       <br>
     </td>
