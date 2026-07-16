@@ -38,9 +38,11 @@
 <!-- INTRODUCTION -->
 ### About Me 
 
-I'm an aspiring **Game Developer** obsessed with low-poly fantasy worlds and deep RPG mechanics. Currently living inside **Unity 6.5** and constantly messing with new features.
-
-I act as the lead architect of my games. I design the systems, build the lore, and make the rules. AI assistants like **Claude** and **Claude Code** are my contractors. They write the code faster than I can, but I'm the one calling the shots.
+I'm an aspiring **Game Developer** obsessed with low-poly fantasy worlds and deep RPG mechanics.<br> 
+Currently living inside **Unity 6.5** and constantly messing with new features.<br>
+I act as the lead architect of my games. I design the systems, build the lore, and make the rules.<br> 
+AI assistants like **Claude** and **Claude Code** are my contractors.<br> 
+They write the code faster than I can, but I'm the one calling the shots.<br>
 
 <br><br>
   <img src="https://singlecolorimage.com/get/F7D7E6/400x3" alt="Divider" width="60%" />
