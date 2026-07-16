@@ -97,7 +97,7 @@ They write the code faster than I can, but I'm the one calling the shots.<br>
     <img src="https://skillicons.dev/icons?i=unity,cs,dotnet,html&theme=light" alt="Game Dev Stack"/>
 <br><br>
       <b>Art & Design</b><br>
-      <a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=blender,capcut&theme=light" alt="Art Stack"/></a><br><br>
+      <a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=blender&theme=light" alt="Art Stack"/></a><br><br>
       <b>Tools & Workflows</b><br>
       <a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=git,github,powershell,visualstudio&theme=light" alt="Tools Stack"/></a>
 
