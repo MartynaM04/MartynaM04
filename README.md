@@ -78,12 +78,12 @@ I operate as the lead architect of my systems. AI assistants like **Claude** and
 ### My Stack
 <b>Game Dev & Programming</b>
 <br>
-    <img src="https://skillicons.dev/icons?i=unity,cs,dotnet,cpp&theme=light" alt="Game Dev Stack"/>
+    <img src="https://skillicons.dev/icons?i=unity,cs,dotnet,html&theme=light" alt="Game Dev Stack"/>
 <br><br>
       <b>Art & Design</b><br>
-      <a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=blender,ps,figma&theme=light" alt="Art Stack"/></a><br><br>
+      <a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=blender&theme=light" alt="Art Stack"/></a><br><br>
       <b>Tools & Workflows</b><br>
-      <a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=git,github,vscode,visualstudio&theme=light" alt="Tools Stack"/></a>
+      <a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=git,github,powershell,visualstudio&theme=light" alt="Tools Stack"/></a>
 
 <br><br>
   <img src="https://singlecolorimage.com/get/F7D7E6/400x3" alt="Divider" width="60%" />
@@ -161,21 +161,21 @@ I operate as the lead architect of my systems. AI assistants like **Claude** and
 ### Special Analytics
 
 <br>
-
 <div align="center">
-  <a href="https://github.com/MartynaM04">
-    <img src="https://github-readme-stats.vercel.app/api?username=MartynaM04&show_icons=true&bg_color=00000000&title_color=E4A5C2&text_color=E4A5C2&icon_color=E4A5C2&hide_border=true&include_all_commits=true&height=170" alt="GitHub Stats" height="170px"/>
-  </a>
-  <a href="https://github.com/MartynaM04">
-    <img src="https://github-readme-streak-stats.herokuapp.com/ user=MartynaM04&theme=transparent&background=00000000&ring=E4A5C2&fire=E4A5C2&currStreakNum=E4A5C2&currStreakLabel=E4A5C2&sideNums=E4A5C2&sideLabels=E4A5C2&dates=F8BBD0&hide_border=true" alt="GitHub Streak" height="170px"/>    
-  </a>
-</div>
+  
+#### GitHub Stats
+<img src="https://github-readme-stats.vercel.app/api?username=MartynaM04&show_icons=true&bg_color=00000000&title_color=E4A5C2&text_color=E4A5C2&icon_color=E4A5C2&hide_border=true&include_all_commits=true&height=170" alt="GitHub Stats" height="170px"/>
+  
+<br>
+  
+#### Streak Stats
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=MartynaM04&theme=transparent&background=00000000&ring=E4A5C2&fire=E4A5C2&currStreakNum=E4A5C2&currStreakLabel=E4A5C2&sideNums=E4A5C2&sideLabels=E4A5C2&dates=F8BBD0&hide_border=true" alt="GitHub Streak" height="170px"/>
 
 <br>
 
 <!-- Activity Graph -->
 <div align="center">
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=MartynaM04&bg_color=00000000&color=E4A5C2&line=E4A5C2&point=F8BBD0&area=true&hide_border=true&title_color=E4A5C2" alt="Activity Graph" width="90%"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=MartynaM04&bg_color=00000000&color=E4A5C2&line=E4A5C2&point=F8BBD0&area=true&hide_border=true&title_color=000000" alt="Activity Graph" width="90%"/>
 
 <br>
 
