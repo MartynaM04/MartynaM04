@@ -95,7 +95,7 @@ I operate as the lead architect of my systems. AI assistants like **Claude** and
   <tr style="border: none;">
     <td width="50%" style="border: none; padding: 10px; vertical-align: middle;">
       <br>
-      <div align="center"><b>Currently Learning:</b><br><br>
+      <div align="center"><b>Currently Learning</b><br><br>
       <div align="left">
       <b> UNITY 6.5 </b><br>
       <b>&nbsp;•&nbsp; </b> Shader & VFX Graph <br>
@@ -112,7 +112,7 @@ I operate as the lead architect of my systems. AI assistants like **Claude** and
     </td>
     <td width="50%" style="border: none; padding: 10px; vertical-align: middle;">
       <br>
-      <div align="center"><b>Facts About Me:</b><br><br>
+      <div align="center"><b>Facts About Me</b><br><br>
       <div align="left">
       &nbsp;•&nbsp; Terrified of stinging insects.<br>
       &nbsp;•&nbsp; A clueless but enthusiastic football fan.<br>
