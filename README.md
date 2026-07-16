@@ -93,8 +93,10 @@ I operate as the lead architect of my systems. AI assistants like **Claude** and
 
 <table align="center" width="100%" style="border: none;">
   <tr style="border: none;">
-    <td width="35%" style="border: none; padding: 20px; vertical-align: middle;">
-      <b>Currently Learning:</b><br><br>
+    <td width="50%" style="border: none; padding: 10px; vertical-align: middle;">
+      <br>
+      <div align="center"><b>Currently Learning:</b><br><br>
+      <div align="left">
       <b> UNITY 6.5 </b><br>
       <b>&nbsp;•&nbsp; </b> Shader & VFX Graph <br>
       <b>&nbsp;•&nbsp; </b> New Input System <br>
@@ -105,16 +107,20 @@ I operate as the lead architect of my systems. AI assistants like **Claude** and
       <b>&nbsp;•&nbsp; </b> GitHub Navigation <br>
       <b>&nbsp;•&nbsp; </b> Advanced AI Workflows <br>
       <b>&nbsp;•&nbsp; </b> LLM Orchestration <br>
+      <img src="https://upload.wikimedia.org/wikipedia/commons/c/ce/Transparent.gif" width="400" height="1" />
       <br>
     </td>
-    <td width="65%" style="border: none; padding: 20px; vertical-align: middle;">
-      <b>Facts About Me:</b><br><br>
+    <td width="50%" style="border: none; padding: 10px; vertical-align: middle;">
+      <br>
+      <div align="center"><b>Facts About Me:</b><br><br>
+      <div align="left">
       &nbsp;•&nbsp; Terrified of stinging insects.<br>
       &nbsp;•&nbsp; A clueless but enthusiastic football fan.<br>
       &nbsp;•&nbsp; I have one signature joke I tell everyone.<br>
       &nbsp;•&nbsp; I can sing two Polish "cringe" songs in my sleep.<br>
       &nbsp;•&nbsp; A writer with too many ideas to finish a book.<br>
       &nbsp;•&nbsp; Learned HTML at 13 by running a fanfic blog.<br><br>
+      <img src="https://upload.wikimedia.org/wikipedia/commons/c/ce/Transparent.gif" width="400" height="1" />
       <br>
     </td>
   </tr>
@@ -188,7 +194,7 @@ I operate as the lead architect of my systems. AI assistants like **Claude** and
 <br><br>
 
 <!-- CONTACT -->
-### 🌸 Find Me Here
+### Find Me Here
 
 <div align="center">
   <a href="https://instagram.com/programming.rat"><img src="https://img.shields.io/badge/Instagram-E4A5C2?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"></a>
@@ -205,11 +211,11 @@ I operate as the lead architect of my systems. AI assistants like **Claude** and
 <!-- FOOTER -->
 <div align="center">
   <p style="font-size: 16px; color: #E4A5C2; font-style: italic;">
-    *Building worlds, one system at a time.* 🐀
+    <b>Building worlds, one system at a time.</b> 🐀
   </p>
   <br>
   <!-- Kawaii Visitor Counter -->
-  <img src="https://komarev.com/ghpvc/?username=MartynaM04&label=Tavern%20Visitors&color=E4A5C2&style=flat-square" alt="Visitor Counter" />
+  <img src="https://komarev.com/ghpvc/?username=MartynaM04&label=Git%20Visitors&color=E4A5C2&style=flat-square" alt="Visitor Counter" />
 </div>
 
 </div>
