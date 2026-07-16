@@ -71,6 +71,20 @@ They write the code faster than I can, but I'm the one calling the shots.<br>
     </td>
   </tr>
 </table>
+<br><br>
+<!-- SCREENSHOTS -->
+<table align="center" width="80%" style="border: none; background-color: transparent;">
+  <tr style="border: none;">
+    <td width="50%" align="center" style="border: none; padding: 10px;">
+      <!-- Podmień link w src na ścieżkę do Twojego pierwszego screena, np. art/screen1.png -->
+      <img src="URL_DO_TWOJEGO_SCREENA_1.png" alt="Wanderer's Tale Screenshot 1" width="100%" />
+    </td>
+    <td width="50%" align="center" style="border: none; padding: 10px;">
+      <!-- Podmień link w src na ścieżkę do Twojego drugiego screena, np. art/screen2.png -->
+      <img src="URL_DO_TWOJEGO_SCREENA_2.png" alt="Wanderer's Tale Screenshot 2" width="100%" />
+    </td>
+  </tr>
+</table>
 
 <br><br>
   <img src="https://singlecolorimage.com/get/F7D7E6/400x3" alt="Divider" width="60%" />
