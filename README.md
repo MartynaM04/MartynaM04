@@ -71,15 +71,17 @@ They write the code faster than I can, but I'm the one calling the shots.<br>
     </td>
   </tr>
 </table>
-<br><br>
+
+<br>
+
 <!-- SCREENSHOTS -->
 <table align="center" width="80%" style="border: none; background-color: transparent;">
   <tr style="border: none;">
     <td width="50%" align="center" style="border: none; padding: 10px;">
-      <img src="Rahim.png" alt="Wanderer's Tale Screenshot 1" width="100%" />
+      <img src="art/Rahim.png" alt="Wanderer's Tale Screenshot 1" width="100%" />
     </td>
     <td width="50%" align="center" style="border: none; padding: 10px;">
-      <img src="MainMenu.png" alt="Wanderer's Tale Screenshot 2" width="100%" />
+      <img src="art/MainMenu.png" alt="Wanderer's Tale Screenshot 2" width="100%" />
     </td>
   </tr>
 </table>
