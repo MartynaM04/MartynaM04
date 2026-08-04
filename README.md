@@ -157,12 +157,13 @@ They write the code faster than I can, but I'm the one calling the shots.<br>
 <div align="center">
   <br>
   <img src="https://img.shields.io/badge/Baldur's_Gate_3-E4A5C2?style=for-the-badge&logoColor=white" alt="BG3">
-  <br>
   <img src="https://img.shields.io/badge/Dragon_Age-F7D7E6?style=for-the-badge&logoColor=gray" alt="Dragon Age">
   <img src="https://img.shields.io/badge/Divinity:_Original_Sin_2-F8BBD0?style=for-the-badge&logoColor=white" alt="DOS2">
+  <br>
   <img src="https://img.shields.io/badge/Red_Dead_Redemption_2-E4A5C2?style=for-the-badge&logoColor=white" alt="RDR2">
   <img src="https://img.shields.io/badge/A_Way_Out-F7D7E6?style=for-the-badge&logoColor=gray" alt="A Way Out">
   <img src="https://img.shields.io/badge/Paralives-F8BBD0?style=for-the-badge&logoColor=white" alt="Paralives">
+  <br>
   <img src="https://img.shields.io/badge/Pillars_of_Eternity_II:_Deadfire-F7D7E6?style=for-the-badge&logoColor=gray" alt="Pillars of Eternity II: Deadfire">
   <img src="https://img.shields.io/badge/Avowed-E4A5C2?style=for-the-badge&logoColor=white" alt="Avowed">
   <img src="https://img.shields.io/badge/The_Elder_Scrolls_IV:_Oblivion-F7D7E6?style=for-the-badge&logoColor=gray" alt="The Elder Scrolls IV: Oblivion">
