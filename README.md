@@ -162,7 +162,9 @@ They write the code faster than I can, but I'm the one calling the shots.<br>
   <img src="https://img.shields.io/badge/Red_Dead_Redemption_2-E4A5C2?style=for-the-badge&logoColor=white" alt="RDR2">
   <img src="https://img.shields.io/badge/A_Way_Out-F7D7E6?style=for-the-badge&logoColor=gray" alt="A Way Out">
   <img src="https://img.shields.io/badge/Paralives-F8BBD0?style=for-the-badge&logoColor=white" alt="Paralives">
+  <img src="https://img.shields.io/badge/Dragon_Age-F7D7E6?style=for-the-badge&logoColor=gray" alt="Pillars of Eternity II: Deadfire">
   <img src="https://img.shields.io/badge/Avowed-E4A5C2?style=for-the-badge&logoColor=white" alt="Avowed">
+  <img src="https://img.shields.io/badge/A_Way_Out-F7D7E6?style=for-the-badge&logoColor=gray" alt="The Elder Scrolls IV: Oblivion">
 </div>
 
 <br><br>
