@@ -158,7 +158,7 @@ They write the code faster than I can, but I'm the one calling the shots.<br>
   <br>
   <img src="https://img.shields.io/badge/Baldur's_Gate_3-E4A5C2?style=for-the-badge&logoColor=white" alt="BG3">
   <img src="https://img.shields.io/badge/Dragon_Age-F7D7E6?style=for-the-badge&logoColor=gray" alt="Dragon Age">
-  <img src="https://img.shields.io/badge/Divinity:_Original_Sin-F8BBD0?style=for-the-badge&logoColor=white" alt="DOS">
+  <img src="https://img.shields.io/badge/Divinity:_Original_Sin_2-F8BBD0?style=for-the-badge&logoColor=white" alt="DOS2">
   <img src="https://img.shields.io/badge/Red_Dead_Redemption_2-E4A5C2?style=for-the-badge&logoColor=white" alt="RDR2">
   <img src="https://img.shields.io/badge/A_Way_Out-F7D7E6?style=for-the-badge&logoColor=gray" alt="A Way Out">
   <img src="https://img.shields.io/badge/Paralives-F8BBD0?style=for-the-badge&logoColor=white" alt="Paralives">
@@ -167,17 +167,6 @@ They write the code faster than I can, but I'm the one calling the shots.<br>
   <img src="https://img.shields.io/badge/The_Elder_Scrolls_IV:_Oblivion-F7D7E6?style=for-the-badge&logoColor=gray" alt="The Elder Scrolls IV: Oblivion">
 </div>
 
-<br><br>
-
-<!-- NOW PLAYING (SPOTIFY) -->
-### Listening To...
-<br>
-<a href="https://open.spotify.com/user/Bonwendura">
-  <img src="https://sb-3xd8yhkz5ekq.vercel.run/api/now-playing" color=E4A5C2 background_color=121212 alt="Spotify Now Playing" width="400px"/>
-</a>
-
-<br><br>
-  <img src="https://singlecolorimage.com/get/F7D7E6/400x3" alt="Divider" width="60%" />
 <br><br>
 
 <!-- GITHUB STATS & ACTIVITY -->
