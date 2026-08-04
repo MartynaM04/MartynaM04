@@ -196,13 +196,16 @@ They write the code faster than I can, but I'm the one calling the shots.<br>
 <br>
 
 <!-- Contribution Snake -->
+
 <div align="center">
   <h4>Contribution Snake</h4>
+  
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/MartynaM04/MartynaM04/output/github-contribution-grid-snake-dark.svg">
     <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/MartynaM04/MartynaM04/output/github-contribution-grid-snake.svg">
     <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/MartynaM04/MartynaM04/output/github-contribution-grid-snake.svg" width="80%">
   </picture>
+  
 </div>
 
 <br><br>
@@ -218,6 +221,7 @@ They write the code faster than I can, but I'm the one calling the shots.<br>
   <a href="https://twitch.tv/szczurnawysokosci"><img src="https://img.shields.io/badge/Twitch-F8BBD0?style=for-the-badge&logo=twitch&logoColor=white" alt="Twitch"></a>
   <a href="mailto:martynamilic08@gmail.com"><img src="https://img.shields.io/badge/Email-E4A5C2?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"></a>
   <br><br>
+  
   <!-- Ko-fi Button -->
   <a href="https://ko-fi.com/MartynaM04"><img src="https://img.shields.io/badge/Buy_Me_A_Coffee-FFB3D9?style=for-the-badge&logo=ko-fi&logoColor=white" alt="Ko-fi"></a>
 </div>
