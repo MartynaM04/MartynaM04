@@ -22,7 +22,7 @@
   <tr style="border: none;">
     <td align="center" style="border: none; padding: 20px;">
       <h1>Hi, I'm Martyna</h1>
-      <img src="https://readme-typing-svg.demolab.com/?font=Poppins&size=20&duration=3000&pause=1200&color=E4A5C2&center=true&vCenter=true&width=460&height=40&lines=Unity+Game+Developer;Crafting+LowPoly+Games;Systems+-+Combat+-+Worldbuilding" alt="typing tagline" />
+      <img src="https://readme-typing-svg.demolab.com/?font=Poppins&size=20&duration=3000&pause=1200&color=E4A5C2&center=true&vCenter=true&width=460&height=40&lines=Unity+Game+Developer;Crafting+3D+Games;Systems+-+Combat+-+Worldbuilding" alt="typing tagline" />
       <p style="font-size: 16px;">
         &nbsp;•&nbsp; Storyteller &nbsp;•&nbsp; World Builder &nbsp;•&nbsp; Big Dreamer &nbsp;•&nbsp; 
         <br><br>
@@ -39,7 +39,7 @@
 ### About Me 
 
 I'm an aspiring **Game Developer** obsessed with low-poly fantasy worlds and deep RPG mechanics.<br> 
-Currently living inside **Unity 6.5** and constantly messing with new features.<br>
+Currently living inside **Unity 6.5 & 6.4.9** and constantly messing with new features.<br>
 I act as the lead architect of my games. I design the systems, build the lore, and make the rules.<br> 
 AI assistants like **Claude** and **Claude Code** are my contractors.<br> 
 They write the code faster than I can, but I'm the one calling the shots.<br>
@@ -87,9 +87,6 @@ They write the code faster than I can, but I'm the one calling the shots.<br>
 </table>
 
 <br><br>
-  <img src="https://singlecolorimage.com/get/F7D7E6/400x3" alt="Divider" width="60%" />
-<br><br>
-
 
 <!-- CURRENT PROJECT (STEAM PAGE VIBE) -->
 ## PROTOCOL: BREACH
@@ -115,6 +112,10 @@ They write the code faster than I can, but I'm the one calling the shots.<br>
 </table>
 
 <br>
+
+<br><br>
+  <img src="https://singlecolorimage.com/get/F7D7E6/400x3" alt="Divider" width="60%" />
+<br><br>
 
 <!-- TECH STACK & LEARNING -->
 ### My Stack
@@ -160,12 +161,10 @@ They write the code faster than I can, but I'm the one calling the shots.<br>
       &nbsp;•&nbsp; Terrified of stinging insects.<br>
       &nbsp;•&nbsp; A clueless but enthusiastic football fan.<br>
       &nbsp;•&nbsp; I have one signature joke I tell everyone.<br>
-      &nbsp;•&nbsp; I can sing two Polish "cringe" songs in my sleep.<br>
       &nbsp;•&nbsp; A writer with too many ideas to finish a book.<br>
       &nbsp;•&nbsp; Learned HTML at 13 by running a fanfic blog.<br>
       &nbsp;•&nbsp; Learned GIMP by making templates for my blog.<br>
-      &nbsp;•&nbsp; I've owned two RP servers on Discord. I created one in one day and it was quite successful.<br>
-      &nbsp;•&nbsp; I love making edits in CapCut, the first ones I made were for my OCs.<br>
+      &nbsp;•&nbsp; I've owned two RP servers on Discord.<br>
       &nbsp;•&nbsp; I have three cats from a shelter.<br><br>
       <img src="https://upload.wikimedia.org/wikipedia/commons/c/ce/Transparent.gif" width="400" height="1" />
       <br>
@@ -202,11 +201,7 @@ They write the code faster than I can, but I'm the one calling the shots.<br>
 <!-- GITHUB STATS & ACTIVITY -->
 ### Special Analytics
 
-<br>
 <div align="center">
-  
-#### GitHub Stats
-<img src="https://github-readme-stats.vercel.app/api?username=MartynaM04&show_icons=true&bg_color=00000000&title_color=E4A5C2&text_color=E4A5C2&icon_color=E4A5C2&hide_border=true&include_all_commits=true&height=170" alt="GitHub Stats" height="170px"/>
   
 <br>
   
@@ -218,21 +213,6 @@ They write the code faster than I can, but I'm the one calling the shots.<br>
 <!-- Activity Graph -->
 <div align="center">
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=MartynaM04&bg_color=00000000&color=E4A5C2&line=E4A5C2&point=F8BBD0&area=true&hide_border=true&title_color=000000" alt="Activity Graph" width="90%"/>
-
-<br>
-
-<!-- Contribution Snake -->
-
-<div align="center">
-  <h4>Contribution Snake</h4>
-  
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/MartynaM04/MartynaM04/output/github-contribution-grid-snake-dark.svg">
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/MartynaM04/MartynaM04/output/github-contribution-grid-snake.svg">
-    <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/MartynaM04/MartynaM04/output/github-contribution-grid-snake.svg" width="80%">
-  </picture>
-  
-</div>
 
 <br><br>
   <img src="https://singlecolorimage.com/get/F7D7E6/400x3" alt="Divider" width="60%" />
@@ -246,7 +226,9 @@ They write the code faster than I can, but I'm the one calling the shots.<br>
   <a href="https://tiktok.com/@greyhighrat"><img src="https://img.shields.io/badge/TikTok-F7D7E6?style=for-the-badge&logo=tiktok&logoColor=gray" alt="TikTok"></a>
   <a href="https://twitch.tv/szczurnawysokosci"><img src="https://img.shields.io/badge/Twitch-F8BBD0?style=for-the-badge&logo=twitch&logoColor=white" alt="Twitch"></a>
   <a href="mailto:martynamilic08@gmail.com"><img src="https://img.shields.io/badge/Email-E4A5C2?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"></a>
-  <br><br>
+  
+  <br>
+  <br>
   
   <!-- Ko-fi Button -->
   <a href="https://ko-fi.com/MartynaM04"><img src="https://img.shields.io/badge/Buy_Me_A_Coffee-FFB3D9?style=for-the-badge&logo=ko-fi&logoColor=white" alt="Ko-fi"></a>
