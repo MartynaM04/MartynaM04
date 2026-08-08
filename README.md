@@ -90,6 +90,32 @@ They write the code faster than I can, but I'm the one calling the shots.<br>
   <img src="https://singlecolorimage.com/get/F7D7E6/400x3" alt="Divider" width="60%" />
 <br><br>
 
+
+<!-- CURRENT PROJECT (STEAM PAGE VIBE) -->
+## PROTOCOL: BREACH
+*A 3D sci-fi survival shooter made in Unity 6.4.9.*
+
+<table align="center" width="80%" style="border: none;">
+  <tr style="border: none;">
+    <td width="50%" style="border: none; padding: 20px; vertical-align: middle;">
+      <b>Quick Brief:</b><br><br>
+      An alien soldier wakes up alone on an abandoned space station, with no memory of how he got there. Armed with rifle, he fights his way through room after room, each one filled with tougher enemies than the last. Clearing a room rewards him with a mysterious tanks, making him stronger as he uncovers the station's dark secrets.
+      <br>
+    </td>
+    <td width="50%" style="border: none; padding: 20px; vertical-align: middle;">
+      <b>Current Focus:</b><br><br>
+      &nbsp;•&nbsp; Fast-paced Shooter Combat<br>
+      &nbsp;•&nbsp; Room-by-Room Progression System<br>
+      &nbsp;•&nbsp; 3D Sci-Fi Environments<br>
+      &nbsp;•&nbsp; Unity 6.4.9 Technologies<br>
+      &nbsp;•&nbsp; AI-assisted Workflows<br>
+      <br>
+    </td>
+  </tr>
+</table>
+
+<br>
+
 <!-- TECH STACK & LEARNING -->
 ### My Stack
 <b>Game Dev & Programming</b>
