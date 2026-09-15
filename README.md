@@ -135,7 +135,7 @@ They write the code faster than I can, but I'm the one calling the shots.<br>
 ### My Stack
 <b>Game Dev & Programming</b>
 <br>
-    <img src="https://skillicons.dev/icons?i=unity,cs,dotnet,html&theme=light" alt="Game Dev Stack"/>
+    <img src="https://skillicons.dev/icons?i=unity,cs,dotnet,python,html&theme=light" alt="Game Dev & Programming Stack"/>
 <br><br>
       <b>Art & Design</b><br>
       <a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=blender&theme=light" alt="Art Stack"/></a><br><br>
@@ -157,10 +157,14 @@ They write the code faster than I can, but I'm the one calling the shots.<br>
       <b> UNITY 6.5 </b><br>
       <b>&nbsp;•&nbsp; </b> Shader & VFX Graph <br>
       <b>&nbsp;•&nbsp; </b> New Input System <br>
+      <b>&nbsp;•&nbsp; </b> UI Toolkit <br>
       <b>&nbsp;•&nbsp; </b> ProBuilder <br>
       <b>&nbsp;•&nbsp; </b> Cinemachine <br>
-      <b>&nbsp;•&nbsp; </b> Terrain Tool <br><br>
+      <b>&nbsp;•&nbsp; </b> Terrain Tools <br><br>
       <b> OTHER </b><br>
+      <b>&nbsp;•&nbsp; </b> Python (CustomTkinter, Desktop Apps) <br>
+      <b>&nbsp;•&nbsp; </b> JSON Data Persistence <br>
+      <b>&nbsp;•&nbsp; </b> Compiling Standalone Executables (.exe) <br>
       <b>&nbsp;•&nbsp; </b> HTML <br>
       <b>&nbsp;•&nbsp; </b> GitHub Navigation <br>
       <b>&nbsp;•&nbsp; </b> Advanced AI Workflows <br>
@@ -179,7 +183,6 @@ They write the code faster than I can, but I'm the one calling the shots.<br>
       &nbsp;•&nbsp; Learned HTML at 13 by running a fanfic blog.<br>
       &nbsp;•&nbsp; Learned GIMP by making templates for my blog.<br>
       &nbsp;•&nbsp; I've owned two RP servers on Discord.<br>
-      &nbsp;•&nbsp; I have three cats from a shelter.<br><br>
       <img src="https://upload.wikimedia.org/wikipedia/commons/c/ce/Transparent.gif" width="400" height="1" />
       <br>
     </td>
