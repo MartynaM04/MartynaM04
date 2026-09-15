@@ -38,10 +38,10 @@
 <!-- INTRODUCTION -->
 ### About Me 
 
-I'm an aspiring **Game Developer** obsessed with low-poly fantasy worlds and deep RPG mechanics.<br> 
-Currently living inside **Unity 6.5 & 6.4.9** and constantly messing with new features.<br>
-I act as the lead architect of my games. I design the systems, build the lore, and make the rules.<br> 
-AI assistants like **Claude** and **Claude Code** are my contractors.<br> 
+I'm an aspiring **Game Developer** and **Creator** obsessed with low-poly fantasy worlds and deep RPG mechanics.<br> 
+Currently living inside **Unity 6.5** and crafting custom, cozy desktop apps in **Python**.<br>
+I act as the lead architect of everything I build. I design the systems, write the lore, and make the rules.<br> 
+AI assistants like **Claude** and **Claude Code** are my power tools and contractors.<br> 
 They write the code faster than I can, but I'm the one calling the shots.<br>
 
 <br><br>
@@ -201,10 +201,12 @@ They write the code faster than I can, but I'm the one calling the shots.<br>
   <img src="https://img.shields.io/badge/Baldur's_Gate_3-E4A5C2?style=for-the-badge&logoColor=white" alt="BG3">
   <img src="https://img.shields.io/badge/Dragon_Age-F7D7E6?style=for-the-badge&logoColor=gray" alt="Dragon Age">
   <img src="https://img.shields.io/badge/Divinity:_Original_Sin_2-F8BBD0?style=for-the-badge&logoColor=white" alt="DOS2">
+  <img src="https://img.shields.io/badge/Pathfinder_Wrath_of_the_Righteous-F7D7E6?style=for-the-badge&logoColor=gray" alt="Pathfinder Wrath of the Righteous">
   <br>
   <img src="https://img.shields.io/badge/Red_Dead_Redemption_2-E4A5C2?style=for-the-badge&logoColor=white" alt="RDR2">
   <img src="https://img.shields.io/badge/A_Way_Out-F7D7E6?style=for-the-badge&logoColor=gray" alt="A Way Out">
   <img src="https://img.shields.io/badge/Paralives-F8BBD0?style=for-the-badge&logoColor=white" alt="Paralives">
+  <img src="https://img.shields.io/badge/The_Blood_of_Dawnwalker-E4A5C2?style=for-the-badge&logoColor=white" alt="The Blood of Dawnwalker">
   <br>
   <img src="https://img.shields.io/badge/Pillars_of_Eternity_II:_Deadfire-F7D7E6?style=for-the-badge&logoColor=gray" alt="Pillars of Eternity II: Deadfire">
   <img src="https://img.shields.io/badge/Avowed-E4A5C2?style=for-the-badge&logoColor=white" alt="Avowed">
